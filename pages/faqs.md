@@ -126,6 +126,58 @@ blocks:
           book us directly for equipment they own rather than hire. Same inspection,
           same report, and it goes straight into your health and safety file.
 
+  - type: faqs
+    intro_content: |
+      ## Awkward units and awkward situations
+    items:
+      - question: Can you test a unit imported from overseas?
+        answer: |
+          Usually, but go in expecting some remedial work. Plenty of imported
+          inflatables are built to something the manufacturer has understood as EN
+          14960 rather than to the standard itself, and the things that most often
+          come up are wall heights, anchor point strength and the size of the gaps
+          round netting and arches.
+
+          None of that is a reason not to buy abroad. It is a reason to get an
+          initial inspection done before the unit takes a booking, so you find out
+          on your own time rather than a week before a school fete.
+      - question: Do you do repairs?
+        answer: |
+          We inspect, we don't repair. If something fails we'll tell you exactly what
+          it is, why it matters and what will put it right, and we'll point you at a
+          repairer who can do that particular job properly.
+
+          Once the work is done we re-check the unit and tag it, usually without a
+          second full inspection fee. The reason we don't do both is that an
+          inspector who repairs the thing he has just failed is marking his own
+          homework, and we would rather not be in that position.
+      - question: What about sealed air inflatables?
+        answer: |
+          They still need inspecting if you hire them out, but they sit outside the
+          PIPA scheme, so they get a bespoke inspection rather than a tag. Sealed
+          units are a specialist item and the inspection looks at the design and the
+          maintenance history as well as the condition, so send us the make, model
+          and any paperwork you have before booking.
+      - question: My unit came without an operating manual. Does that matter?
+        answer: |
+          It matters more than most people expect. The manufacturer's operating
+          instructions are what set the anchor point count, the operating pressure
+          and the user limits for that specific unit, and without them there is
+          nothing to inspect against.
+
+          If the manufacturer has gone, or the unit came secondhand with nothing,
+          an operations manual can be put together for it. Sort that out before an
+          inspection rather than finding out on the day.
+      - question: How do I check you're actually qualified?
+        answer: |
+          Ask for the registration number and look it up yourself. RPII registration
+          is checkable at playinspectors.com and PIPA inspectors are listed on the
+          PIPA site. Do it for us and do it for anybody else quoting you.
+
+          The same goes the other way round. If a venue asks you to prove your units
+          are inspected, give them the tag numbers without fuss. That is what they
+          are for.
+
   - type: cta
     content: |
       ## Still got a question?

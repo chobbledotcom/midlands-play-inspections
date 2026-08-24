@@ -53,6 +53,12 @@ blocks:
       - icon: "hugeicons:shield-01"
         name: No favours
         description: Nothing gets a tag it hasn't earned. A tag that's handed out cheaply is worth nothing to anyone holding one.
+      - icon: "hugeicons:calendar-03"
+        name: We work round the season
+        description: Winter and midweek dates, because nobody wants their best castle off the road on an August Saturday.
+      - icon: "hugeicons:money-01"
+        name: The price is the price
+        description: A fixed figure in writing before we set off, with travel in it. No call-out charge and nothing added on the day.
 
   - type: split-full
     variant: dark-right

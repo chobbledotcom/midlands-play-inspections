@@ -60,6 +60,12 @@ blocks:
       - icon: "hugeicons:tent"
         name: Gazebos and structures
         description: Frame gazebos and event structures assessed for condition, ballast and safe erection.
+      - icon: "hugeicons:swimming"
+        name: Pool and water inflatables
+        description: Aqua parks, pool floats and water-based units, which have their own hazards and their own checks.
+      - icon: "hugeicons:sofa-single"
+        name: Bouncing pillows and jump bags
+        description: Airbags, jump bags and bouncing pillows, including the fencing, fall zones and clearances around them.
 
   - type: callout
     variant: info

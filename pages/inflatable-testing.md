@@ -109,6 +109,67 @@ blocks:
     figure_subtitle: Fix it, show us, get tagged
     figure_variant: gradient
 
+  - type: split-icon-links
+    subtitle: Getting ready
+    content: |
+      ## What we need from you on the day
+
+      None of this is difficult, but getting it wrong is the main reason a day
+      runs short. Every unit has to be inflated and at operating pressure to be
+      inspected, so the limiting factor is nearly always space rather than time.
+
+      A village hall, a barn or a decent-sized industrial unit all work fine.
+      What does not work is a packed container with nowhere to lay anything out,
+      or a barn with a low collar tie when your biggest unit is a 16ft slide.
+
+      If you're not sure whether your space is big enough, send a photo and a
+      rough measurement and we'll tell you before we set off rather than after.
+    reverse: true
+    button:
+      text: Book a date
+      href: /contact/
+      variant: primary
+    figure_items:
+      - icon: "hugeicons:home-01"
+        text: Somewhere dry, with room to inflate
+      - icon: "hugeicons:ruler"
+        text: Height clearance for your tallest unit
+      - icon: "hugeicons:plug-socket"
+        text: Power, and the right blower with each unit
+      - icon: "hugeicons:file-01"
+        text: Manufacturer's manuals if you have them
+      - icon: "hugeicons:tag-01"
+        text: Last year's reports and tag numbers
+      - icon: "hugeicons:package"
+        text: Units laid out roughly in order
+
+  - type: split-callout
+    subtitle: Bought abroad
+    content: |
+      ## Imported units and initial inspections
+
+      A lot of inflatables sold into the UK are built to the manufacturer's
+      reading of EN 14960 rather than to the standard as written. The things
+      that come up most often are wall heights against the platform, the
+      strength and number of anchor points, and the gaps round netting, arches
+      and step openings.
+
+      That does not make an imported unit a bad buy. It does mean the initial
+      inspection is the one that matters, because it tells you what needs
+      changing before the unit earns anything rather than after you have taken
+      bookings on it.
+
+      Send us the make, the model and a couple of photographs and we will tell
+      you honestly what we expect to find.
+    button:
+      text: What it costs
+      href: /pricing/
+      variant: secondary
+    figure_icon: "hugeicons:package"
+    figure_name: Initial inspection
+    figure_subtitle: Before the first booking, not after
+    figure_variant: secondary
+
   - type: split-full
     variant: primary-right
     left_content: |

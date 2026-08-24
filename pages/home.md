@@ -120,20 +120,26 @@ blocks:
     intro_content: |
       ## How a booking works
 
-      There are four steps to it and none of them involve chasing paperwork.
+      There are six steps to it and none of them involve chasing paperwork.
     items:
       - icon: "hugeicons:message-01"
-        name: 1. Tell us what you've got
-        description: A list of units and rough sizes is enough for a firm price.
+        name: 1. Send your list
+        description: Makes, rough sizes and quantities are enough for us to price it properly.
+      - icon: "hugeicons:money-01"
+        name: 2. Get a fixed price
+        description: A firm figure in writing, with travel included, before anything is booked.
       - icon: "hugeicons:calendar-check-in-01"
-        name: 2. Pick a date
+        name: 3. Pick a date
         description: We come to you, for one unit or a full fleet day, on weekdays or winter weekends.
       - icon: "hugeicons:search-visual"
-        name: 3. We inspect
+        name: 4. We inspect
         description: We check anchorage, seams, pressure, entrapments, fall heights, the blower and the electrics.
+      - icon: "hugeicons:tag-01"
+        name: 5. Tags go on
+        description: They're fitted before we leave, so you can take bookings the same afternoon.
       - icon: "hugeicons:mail-send-01"
-        name: 4. Tag and report
-        description: The tag goes on before we leave and the report follows the same week, with any faults in plain English.
+        name: 6. The report lands
+        description: A PDF within a few days, with any faults written out in plain English.
 
   - type: cta
     content: |

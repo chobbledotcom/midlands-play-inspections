@@ -100,6 +100,10 @@ Blocks used on this site: `hero`, `features`, `stats`, `section-header`,
 `callout`, `faqs`, `icon-links`, `contact-form`, `markdown`, `gallery`, `items`,
 `include`, `news-meta`.
 
+The sitewide pre-footer band comes from `snippets/footer-content.md`. The base
+layout renders that snippet's blocks at the end of every page, so anything added
+there appears site-wide.
+
 Notes worth knowing:
 
 - Sections alternate background colours automatically. Do not try to control this
@@ -107,6 +111,12 @@ Notes worth knowing:
 - `dark: true` on a block inverts that section to the brand navy.
 - Blocks animate in on scroll via `data-reveal`. Screenshots must run with
   reduced motion or half the page renders blank (see "Screenshotting").
+- **`features` grids must hold a multiple of three items, and six is the right
+  answer nearly every time.** The grid is `repeat(auto-fit, minmax(280px, 1fr))`
+  inside a 1200px container, so it lays out three across on desktop, two on
+  tablet and one on mobile. Six divides cleanly into all three; four leaves an
+  orphan card sitting on its own row. If you cannot find a sixth item worth
+  writing, the block wants three, not four or five.
 - Headings flip to white in dark, CTA and coloured panels via `--color-heading`
   in `css/theme.scss`. If a new coloured panel type appears with navy headings on
   a dark background, add its selector to that list.
@@ -157,6 +167,7 @@ link.
 midlands-play-inspections/
 ├── pages/             # Every static page, as blocks in frontmatter
 ├── news/              # Job write-ups, YYYY-MM-DD-slug.md
+├── snippets/          # footer-content.md renders on every page
 ├── _data/             # site.json, meta.json, config.json, strings.json
 ├── _includes/         # Overrides of template includes
 ├── css/theme.scss     # Brand colours, fonts and component overrides
@@ -284,6 +295,21 @@ Luke. He needs to set all of them before launch:
 - Free travel across Warwickshire and the West Midlands
 - £3 per additional PAT test
 - Whether a re-check after a repair is free
+
+### Services we have described but not confirmed
+
+- **Repairs.** `/faqs/` now says "we inspect, we don't repair", that we will
+  point you at a repairer, and that the re-check after a repair is usually free.
+  Most competitors do repairs on site with a mobile sewing machine, so this is a
+  real positioning decision. Confirm it is the one Luke wants.
+- **Initial inspections on imported units.** `/inflatable-testing/` offers to
+  look at photographs of an imported unit and say what we expect to find.
+  Confirm he is happy to do that unpaid.
+- **Operations manuals.** `/faqs/` says one "can be put together" for a unit
+  whose manufacturer has gone. Confirm whether Luke does this himself, or is
+  referring people elsewhere.
+- **Turnaround.** Several pages say the report arrives "within a few days".
+  Confirm what he will actually commit to.
 
 ### Content and assets
 
@@ -693,6 +719,39 @@ worth answering. Two tests before writing any Q&A:
   changed? Avoid FAQs that need updating across several pages when a price moves.
 
 If fewer than three survive, skip the block. No boilerplate FAQs, ever.
+
+---
+
+## Area landing pages
+
+`pages/bouncy-castle-inspections-<slug>.md` are local SEO landing pages, one per
+place named on `/areas-we-cover/`. There are twenty-one: fifteen towns and six
+wider-Midlands county groupings.
+
+They are deliberately **not** in `eleventyNavigation`, because twenty-one items
+in a dropdown is unusable. `/areas-we-cover/` is the hub that links to all of
+them, via two `icon-links` blocks. Add a new area page to that hub or nothing
+will link to it.
+
+Every one shares the same block structure, and that is fine. What must **not**
+be shared is the prose. The `hero` intro, the `split-callout` body and the "Who
+books us in X" paragraph are hand-written per area, because twenty-one pages
+carrying the same three paragraphs with the town name swapped is a doorway-page
+pattern and Google treats it as one.
+
+What makes an area page carry its weight:
+
+- **Real geography.** The road we actually come in on, roughly how long it
+  takes from Lighthorne Heath, the postcode districts, the villages round it.
+- **Something true about that place's hire trade.** Coventry has the most
+  operators. Halesowen is far enough that a single small unit is hard to
+  justify. Bromsgrove storage tends to be farm buildings with low collar ties.
+- **An honest note about travel.** Free inside Warwickshire and the West
+  Midlands, quoted as one figure further out, and worth grouping or sharing.
+
+Do not invent venues, customers or "we regularly test at" claims. Distances,
+roads and postcodes are verifiable; a named local customer is not until Luke
+says so.
 
 ---
 

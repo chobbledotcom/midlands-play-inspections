@@ -28,6 +28,15 @@ blocks:
       - icon: "hugeicons:plug-socket"
         name: Blower PAT test
         description: We PAT test the blower and its lead as part of the unit inspection.
+      - icon: "hugeicons:wrench-01"
+        name: A fault list you can act on
+        description: Anything we find is written out with what it is, why it matters and what will put it right.
+      - icon: "hugeicons:truck-delivery"
+        name: Travel, within reason
+        description: Travel across Warwickshire and the West Midlands is normally free, and it's quoted as one figure elsewhere.
+      - icon: "hugeicons:call-02"
+        name: Asking us things afterwards
+        description: If a venue queries your paperwork six months later, ring us. We don't bill for a phone call.
 
   - type: markdown
     content: |

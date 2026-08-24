@@ -130,6 +130,17 @@ $latin-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
     --color-heading: #fff;
   }
 
+  // `dark-section-vars` inverts the text colours but leaves `--color-link` as
+  // royal blue, which is about 1.3:1 against the navy background. Sky blue
+  // clears 5:1 and stays on-brand.
+  section.dark,
+  .split-full.dark-left .left,
+  .split-full.dark-right .right,
+  footer {
+    --color-link: #{$sky};
+    --color-link-hover: #fff;
+  }
+
   // Green ticks instead of bullets, echoing the tick in the logo
   .prose ul:not([role="list"]) {
     padding-left: 0;

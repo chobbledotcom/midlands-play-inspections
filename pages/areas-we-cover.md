@@ -75,6 +75,85 @@ blocks:
       - icon: "hugeicons:maps-location-02"
         text: Derbyshire & Nottinghamshire
 
+  - type: icon-links
+    intro_content: |
+      ## Towns we cover
+      
+      Each of these has its own page with the local detail on it,
+      including how long it takes us to get there and what the travel costs.
+    items:
+      - icon: "hugeicons:location-01"
+        text: Leamington Spa
+        url: /bouncy-castle-inspections-leamington-spa/
+      - icon: "hugeicons:location-01"
+        text: Warwick
+        url: /bouncy-castle-inspections-warwick/
+      - icon: "hugeicons:location-01"
+        text: Kenilworth
+        url: /bouncy-castle-inspections-kenilworth/
+      - icon: "hugeicons:location-01"
+        text: Coventry
+        url: /bouncy-castle-inspections-coventry/
+      - icon: "hugeicons:location-01"
+        text: Rugby
+        url: /bouncy-castle-inspections-rugby/
+      - icon: "hugeicons:location-01"
+        text: Southam
+        url: /bouncy-castle-inspections-southam/
+      - icon: "hugeicons:location-01"
+        text: Stratford-upon-Avon
+        url: /bouncy-castle-inspections-stratford-upon-avon/
+      - icon: "hugeicons:location-01"
+        text: Nuneaton
+        url: /bouncy-castle-inspections-nuneaton/
+      - icon: "hugeicons:location-01"
+        text: Bedworth
+        url: /bouncy-castle-inspections-bedworth/
+      - icon: "hugeicons:location-01"
+        text: Atherstone
+        url: /bouncy-castle-inspections-atherstone/
+      - icon: "hugeicons:location-01"
+        text: Birmingham
+        url: /bouncy-castle-inspections-birmingham/
+      - icon: "hugeicons:location-01"
+        text: Solihull
+        url: /bouncy-castle-inspections-solihull/
+      - icon: "hugeicons:location-01"
+        text: Redditch
+        url: /bouncy-castle-inspections-redditch/
+      - icon: "hugeicons:location-01"
+        text: Bromsgrove
+        url: /bouncy-castle-inspections-bromsgrove/
+      - icon: "hugeicons:location-01"
+        text: Halesowen
+        url: /bouncy-castle-inspections-halesowen/
+
+  - type: icon-links
+    intro_content: |
+      ## The wider Midlands
+      
+      These are the counties we plan proper days around, usually for a
+      fleet or a couple of operators sharing the trip.
+    items:
+      - icon: "hugeicons:maps-location-02"
+        text: Leicestershire and Rutland
+        url: /bouncy-castle-inspections-leicestershire/
+      - icon: "hugeicons:maps-location-02"
+        text: Northamptonshire and Milton Keynes
+        url: /bouncy-castle-inspections-northamptonshire/
+      - icon: "hugeicons:maps-location-02"
+        text: Worcestershire and Herefordshire
+        url: /bouncy-castle-inspections-worcestershire-herefordshire/
+      - icon: "hugeicons:maps-location-02"
+        text: Staffordshire, Stoke and Telford
+        url: /bouncy-castle-inspections-staffordshire-shropshire/
+      - icon: "hugeicons:maps-location-02"
+        text: Oxfordshire and Gloucestershire
+        url: /bouncy-castle-inspections-oxfordshire-gloucestershire/
+      - icon: "hugeicons:maps-location-02"
+        text: Derbyshire and Nottinghamshire
+        url: /bouncy-castle-inspections-derbyshire-nottinghamshire/
+
   - type: callout
     variant: info
     icon: "hugeicons:truck-delivery"
