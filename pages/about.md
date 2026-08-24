@@ -1,0 +1,88 @@
+---
+name: About
+meta_title: About Midland Play Inspections
+meta_description: Midland Play Inspections is run by Luke, who has hired inflatables out across Warwickshire since 2011. An inspector who runs a fleet of his own.
+eleventyNavigation:
+  key: About
+  order: 5
+blocks:
+  - type: hero
+    badge: About us
+    content: |
+      # An inspector who runs a fleet of his own
+
+      Midland Play Inspections was set up by Luke, who has been hiring
+      inflatables out across Warwickshire since 2011.
+
+  - type: split-callout
+    subtitle: Why this exists
+    content: |
+      ## Fifteen years on the other side of the clipboard
+
+      Luke started hiring bouncy castles out as a family business in 2011 and
+      has been doing it ever since, through hundreds of parties, school fetes,
+      village hall bookings and corporate events across Warwickshire, from a
+      fleet that's grown a bit every year.
+
+      That means fifteen years of being inspected rather than inspecting. Of
+      booking tests around a season that doesn't stop. Of chasing reports that
+      never arrived, and of turning up to a venue that wanted to see a tag that
+      was still in the van.
+
+      Midland Play Inspections is the inspection service he wanted as an
+      operator: someone who turns up when they said, explains what they found,
+      and gets the paperwork over quickly enough to be useful.
+    figure_icon: "hugeicons:castle-01"
+    figure_name: Hiring since 2011
+    figure_subtitle: Inspecting with an operator's eye
+    figure_variant: primary
+
+  - type: features
+    intro_content: |
+      ## How we work
+    items:
+      - icon: "hugeicons:clock-01"
+        name: We turn up
+        description: A confirmed date is a confirmed date. If something changes you'll hear it from us first, not after you've waited in.
+      - icon: "hugeicons:message-01"
+        name: Plain English
+        description: No standards-speak. If a unit fails you'll understand why, and what will fix it, before we leave.
+      - icon: "hugeicons:mail-send-01"
+        name: Fast paperwork
+        description: Reports out within days, not weeks. You can't sell a booking on a report that hasn't arrived.
+      - icon: "hugeicons:shield-01"
+        name: No favours
+        description: Nothing gets a tag it hasn't earned. A tag that's handed out cheaply is worth nothing to anyone holding one.
+
+  - type: split-full
+    variant: dark-right
+    left_content: |
+      ## Where we're based
+
+      Lighthorne Heath, just outside Leamington Spa, Warwickshire. It puts
+      Coventry, Birmingham, Rugby, Stratford and Banbury all inside an easy
+      run, and most of the Midlands within a morning.
+    right_content: |
+      ## The hire business
+
+      Luke still runs [Best Party Hire](https://www.bestpartyhire.com/), a
+      family bouncy castle and party hire business covering Leamington, Warwick,
+      Kenilworth and the surrounding villages. If you're after a castle for a
+      party rather than an inspection, that's the one you want.
+    right_button:
+      text: Visit Best Party Hire
+      href: https://www.bestpartyhire.com/
+      variant: secondary
+
+  - type: cta
+    content: |
+      ## Let's get your fleet sorted
+
+      Tell us what you've got and where you are. We'll tell you what it costs
+      and when we can be there.
+    button:
+      text: Get in touch
+      href: /contact/
+      variant: secondary
+      size: lg
+---
