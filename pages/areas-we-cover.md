@@ -15,73 +15,26 @@ blocks:
 
       We come to your unit, yard or storage. We're based in Warwickshire, we're
       out most days across the Midlands, and we'll travel further for a fleet
-      day.
+      day. Every town below has its own page with the local detail on it.
 
   - type: split-icon-links
     subtitle: Home turf
     content: |
-      ## Warwickshire and the West Midlands
+      ## South Warwickshire
 
-      This is the patch we're on most weeks, and travel is normally free
-      throughout it. If you're inside this area, a single unit is worth booking
-      on its own, and you don't need to wait until you've got a fleet.
+      We're at Lighthorne Heath, just off junction 12 of the M40, so this is the
+      patch we're on most weeks. Travel is free throughout it and a single unit
+      is worth booking on its own. You don't need to wait until you've got a
+      fleet stacked up before it's worth our while.
 
-      We're based just outside Leamington Spa, so most of this is inside an hour.
+      Southam is ten minutes away and Leamington about twenty. Rugby is the
+      long end of it at around thirty-five, so that one is worth grouping if you
+      can.
     button:
       text: Book a date
       href: /contact/
       variant: primary
     figure_items:
-      - icon: "hugeicons:location-01"
-        text: Leamington Spa, Warwick & Kenilworth
-      - icon: "hugeicons:location-01"
-        text: Coventry & Rugby
-      - icon: "hugeicons:location-01"
-        text: Birmingham & Solihull
-      - icon: "hugeicons:location-01"
-        text: Stratford-upon-Avon & Southam
-      - icon: "hugeicons:location-01"
-        text: Nuneaton, Bedworth & Atherstone
-      - icon: "hugeicons:location-01"
-        text: Redditch, Bromsgrove & Halesowen
-
-  - type: split-icon-links
-    subtitle: Regular runs
-    content: |
-      ## The wider Midlands
-
-      We're out across these counties regularly, usually for fleet days. Travel
-      is quoted as a single figure up front, and it's shared if two operators in
-      the same town book the same trip.
-
-      If you're in one of these areas, ask when we're next passing. It's often
-      sooner than you'd think.
-    reverse: true
-    button:
-      text: Ask about your area
-      href: /contact/
-      variant: secondary
-    figure_items:
-      - icon: "hugeicons:maps-location-02"
-        text: Leicestershire & Rutland
-      - icon: "hugeicons:maps-location-02"
-        text: Northamptonshire & Milton Keynes
-      - icon: "hugeicons:maps-location-02"
-        text: Worcestershire & Herefordshire
-      - icon: "hugeicons:maps-location-02"
-        text: Staffordshire, Stoke & Telford
-      - icon: "hugeicons:maps-location-02"
-        text: Oxfordshire & Gloucestershire
-      - icon: "hugeicons:maps-location-02"
-        text: Derbyshire & Nottinghamshire
-
-  - type: icon-links
-    intro_content: |
-      ## Towns we cover
-      
-      Each of these has its own page with the local detail on it,
-      including how long it takes us to get there and what the travel costs.
-    items:
       - icon: "hugeicons:location-01"
         text: Leamington Spa
         url: /bouncy-castle-inspections-leamington-spa/
@@ -92,17 +45,37 @@ blocks:
         text: Kenilworth
         url: /bouncy-castle-inspections-kenilworth/
       - icon: "hugeicons:location-01"
-        text: Coventry
-        url: /bouncy-castle-inspections-coventry/
-      - icon: "hugeicons:location-01"
-        text: Rugby
-        url: /bouncy-castle-inspections-rugby/
-      - icon: "hugeicons:location-01"
         text: Southam
         url: /bouncy-castle-inspections-southam/
       - icon: "hugeicons:location-01"
         text: Stratford-upon-Avon
         url: /bouncy-castle-inspections-stratford-upon-avon/
+      - icon: "hugeicons:location-01"
+        text: Rugby
+        url: /bouncy-castle-inspections-rugby/
+
+  - type: split-icon-links
+    subtitle: Up the A46
+    content: |
+      ## Coventry and north Warwickshire
+
+      Coventry has more inflatable hire companies in it than anywhere else we
+      cover, and it's about half an hour up the A46. Travel is free, and because
+      there are so many operators in one place it's the easiest city to share a
+      fleet day in.
+
+      Nuneaton, Bedworth and Atherstone sit at the top of the county and usually
+      get done together on one run. If you're up there, ask when that day is
+      next scheduled rather than booking a trip of your own.
+    reverse: true
+    button:
+      text: Ask about a shared day
+      href: /contact/
+      variant: secondary
+    figure_items:
+      - icon: "hugeicons:location-01"
+        text: Coventry
+        url: /bouncy-castle-inspections-coventry/
       - icon: "hugeicons:location-01"
         text: Nuneaton
         url: /bouncy-castle-inspections-nuneaton/
@@ -112,6 +85,26 @@ blocks:
       - icon: "hugeicons:location-01"
         text: Atherstone
         url: /bouncy-castle-inspections-atherstone/
+
+  - type: split-icon-links
+    subtitle: M42 and M5
+    content: |
+      ## Birmingham and west
+
+      Birmingham is about forty-five minutes up the M40 and M42, and travel
+      across the West Midlands is free. The fleets we see out this way tend to
+      be bigger and worked harder than the rural ones, which shows in the seams
+      and the anchor patches.
+
+      Redditch, Bromsgrove and Halesowen are further round and work best as a
+      fleet day or shared with another operator nearby. Halesowen in particular
+      is far enough that a single small unit is hard to justify, and we'd rather
+      say so than take the booking.
+    button:
+      text: Get a fleet price
+      href: /pricing/
+      variant: primary
+    figure_items:
       - icon: "hugeicons:location-01"
         text: Birmingham
         url: /bouncy-castle-inspections-birmingham/
@@ -128,13 +121,25 @@ blocks:
         text: Halesowen
         url: /bouncy-castle-inspections-halesowen/
 
-  - type: icon-links
-    intro_content: |
+  - type: split-icon-links
+    subtitle: Regular runs
+    content: |
       ## The wider Midlands
-      
-      These are the counties we plan proper days around, usually for a
-      fleet or a couple of operators sharing the trip.
-    items:
+
+      These are the counties we plan proper days around, usually for one decent
+      fleet or a couple of operators sharing the trip. Travel is quoted as a
+      single figure up front rather than a per-mile total you find out about
+      afterwards, and it gets split if two operators in the same town book the
+      same day.
+
+      If you're in one of these areas, ask when we're next passing. It's often
+      sooner than you'd think.
+    reverse: true
+    button:
+      text: Ask about your area
+      href: /contact/
+      variant: secondary
+    figure_items:
       - icon: "hugeicons:maps-location-02"
         text: Leicestershire and Rutland
         url: /bouncy-castle-inspections-leicestershire/
@@ -167,12 +172,12 @@ blocks:
   - type: stats
     items:
       - value: "Free"
-        label: Travel across Warwickshire
+        label: Warwickshire travel
       - value: "1hr"
-        label: Most of the West Midlands
+        label: To the West Midlands
       - value: "6 days"
-        label: A week, in season
-      - value: "Nationwide"
+        label: A week in season
+      - value: "UK-wide"
         label: For fleet days
 
   - type: cta
