@@ -1,0 +1,14 @@
+{
+	"cart_mode": null,
+	"quote_type": null,
+	"has_products_filter": null,
+	"enable_theme_switcher": false,
+	"show_breadcrumbs": true,
+	"placeholder_images": false,
+	"collapse_mobile_menu": true,
+	"currency": "GBP",
+	"homepage_footer_markdown": null,
+	"formspark_id": null,
+	"botpoison_public_key": null,
+	"contact_form_target": null
+}

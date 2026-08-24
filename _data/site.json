@@ -1,15 +1,54 @@
 {
-	"name": "",
-	"url": "https://example.chobble.com",
+	"name": "Midland Play Inspections",
+	"url": "https://midlandplayinspections.co.uk",
+	"description": "RPII inflatable inspections and PIPA testing across the Midlands. Annual BS EN 14960 safety inspections for bouncy castles, slides, obstacle courses and soft play.",
 	"socials": {
 		"Facebook": null,
-		"Instagram": "https://www.instagram.com/chobbledotcom/",
+		"Instagram": null,
 		"TikTok": null,
 		"Google": null,
 		"WhatsApp": null,
-		"RSS": "/feed.xml"
+		"RSS": null
 	},
+	"opening_times": [
+		{
+			"day": "Monday - Friday",
+			"hours": "8am - 6pm"
+		},
+		{
+			"day": "Saturday",
+			"hours": "9am - 1pm"
+		},
+		{
+			"day": "Sunday",
+			"hours": "Closed"
+		}
+	],
 	"sticky_mobile_nav": true,
 	"horizontal_nav": true,
-	"template_repo_url": "https://git.chobble.com/chobble/chobble-client"
+	"template_repo_url": null,
+	"cms_config": {
+		"collections": [
+			"pages",
+			"snippets",
+			"news"
+		],
+		"features": {
+			"permalinks": true,
+			"redirects": false,
+			"faqs": true,
+			"features": false,
+			"galleries": true,
+			"add_ons": false,
+			"external_navigation_urls": false,
+			"external_purchases": false,
+			"event_locations_and_dates": false,
+			"use_visual_editor": true,
+			"no_index": true,
+			"parent_categories": false
+		},
+		"hasSrcFolder": true,
+		"customHomePage": false,
+		"customBlocksCollections": []
+	}
 }
