@@ -1,6 +1,6 @@
 ---
 name: Home
-meta_title: Inflatable Inspections & PIPA Testing in the Midlands
+meta_title: Inflatable Inspections & PAT Testing in the Midlands
 meta_description: RPII inflatable inspections across the Midlands. Annual BS EN
   14960 safety inspections for bouncy castles, slides, obstacle courses and
   other inflatables.
