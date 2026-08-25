@@ -14,15 +14,11 @@ blocks:
     dark: true
     compact: false
     badge: RPII inflatable inspections
-    content: >-
+    content: |-
       # Your inflatables, tested properly, by someone who hires them out too
 
-
-      Annual PIPA and RPII inspections to BS EN 14960 for bouncy castles,
-      slides,
-
-      obstacle courses, soft play and disco domes. Mobile testing across the
-
+      Annual RPII inspections to BS EN 14960 for bouncy castles, slides,  
+      obstacle courses, disco domes and more. Mobile testing across the  
       Midlands, booked around your season rather than against it.
     buttons:
       - text: Book an inspection
