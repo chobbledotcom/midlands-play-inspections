@@ -2,6 +2,7 @@
 name: Pricing
 meta_title: Inflatable Inspection Prices
 meta_description: Guide prices for PIPA testing and RPII inflatable inspections, covering per-unit rates, fleet day rates, PAT testing and what's included in every inspection.
+permalink: /pricing/
 eleventyNavigation:
   key: Pricing
   order: 3

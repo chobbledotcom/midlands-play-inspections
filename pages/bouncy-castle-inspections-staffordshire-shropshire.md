@@ -2,6 +2,7 @@
 name: Staffordshire, Stoke and Telford
 meta_title: Bouncy Castle Inspections in Staffordshire, Stoke and Telford
 meta_description: PIPA testing and RPII inflatable inspections across Staffordshire and Shropshire, covering Stafford, Stoke-on-Trent, Lichfield, Tamworth, Burton, Telford and Shrewsbury.
+permalink: /bouncy-castle-inspections-staffordshire-shropshire/
 blocks:
   - type: hero
     badge: Wider Midlands

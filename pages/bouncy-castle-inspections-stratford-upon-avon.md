@@ -2,6 +2,7 @@
 name: Stratford-upon-Avon
 meta_title: Bouncy Castle Inspections in Stratford-upon-Avon
 meta_description: PIPA testing and RPII inflatable inspections in Stratford-upon-Avon and the CV37 postcode, with free travel across Warwickshire and mobile testing at your storage.
+permalink: /bouncy-castle-inspections-stratford-upon-avon/
 blocks:
   - type: hero
     badge: Warwickshire

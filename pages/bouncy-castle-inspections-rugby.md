@@ -2,6 +2,7 @@
 name: Rugby
 meta_title: Bouncy Castle Inspections in Rugby
 meta_description: PIPA testing and RPII inflatable inspections in Rugby and the CV21, CV22 and CV23 postcodes. We come to your storage, and travel across Warwickshire is free.
+permalink: /bouncy-castle-inspections-rugby/
 blocks:
   - type: hero
     badge: Warwickshire

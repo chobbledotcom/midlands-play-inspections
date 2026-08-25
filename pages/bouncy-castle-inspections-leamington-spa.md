@@ -2,6 +2,7 @@
 name: Leamington Spa
 meta_title: Bouncy Castle Inspections in Leamington Spa
 meta_description: PIPA testing and RPII inflatable inspections in Leamington Spa and the CV31 and CV32 postcodes. We come to you, and travel is free across Warwickshire.
+permalink: /bouncy-castle-inspections-leamington-spa/
 blocks:
   - type: hero
     badge: Warwickshire

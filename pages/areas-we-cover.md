@@ -2,6 +2,7 @@
 name: Areas We Cover
 meta_title: Areas We Cover
 meta_description: Mobile inflatable inspections across Warwickshire, the West Midlands and the wider Midlands, covering Coventry, Birmingham, Leicester, Northampton, Worcester, Derby, Nottingham and beyond.
+permalink: /areas-we-cover/
 navigationParent: Inspections
 eleventyNavigation:
   key: Areas We Cover

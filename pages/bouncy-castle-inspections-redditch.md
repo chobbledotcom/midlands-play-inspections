@@ -2,6 +2,7 @@
 name: Redditch
 meta_title: Bouncy Castle Inspections in Redditch
 meta_description: PIPA testing and RPII inflatable inspections in Redditch and the B97 and B98 postcodes. Mobile testing at your unit, with travel quoted up front.
+permalink: /bouncy-castle-inspections-redditch/
 blocks:
   - type: hero
     badge: Worcestershire

@@ -2,6 +2,7 @@
 name: Coventry
 meta_title: Bouncy Castle Inspections in Coventry
 meta_description: PIPA testing and RPII inflatable inspections in Coventry, covering CV1 to CV6. Mobile testing for hire fleets, schools and community centres, with free travel.
+permalink: /bouncy-castle-inspections-coventry/
 blocks:
   - type: hero
     badge: West Midlands

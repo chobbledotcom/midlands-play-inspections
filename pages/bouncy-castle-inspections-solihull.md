@@ -2,6 +2,7 @@
 name: Solihull
 meta_title: Bouncy Castle Inspections in Solihull
 meta_description: PIPA testing and RPII inflatable inspections in Solihull and the B90 to B94 postcodes. We come to your storage, with free travel across the West Midlands.
+permalink: /bouncy-castle-inspections-solihull/
 blocks:
   - type: hero
     badge: West Midlands

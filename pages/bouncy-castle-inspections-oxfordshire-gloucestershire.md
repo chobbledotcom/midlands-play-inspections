@@ -2,6 +2,7 @@
 name: Oxfordshire and Gloucestershire
 meta_title: Bouncy Castle Inspections in Oxfordshire and Gloucestershire
 meta_description: PIPA testing and RPII inflatable inspections across Oxfordshire and Gloucestershire, covering Banbury, Bicester, Oxford, Cheltenham, Gloucester and Cirencester.
+permalink: /bouncy-castle-inspections-oxfordshire-gloucestershire/
 blocks:
   - type: hero
     badge: Wider Midlands

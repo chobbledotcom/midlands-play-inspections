@@ -2,6 +2,7 @@
 name: Atherstone
 meta_title: Bouncy Castle Inspections in Atherstone
 meta_description: PIPA testing and RPII inflatable inspections in Atherstone and the CV9 postcode, at the top of Warwickshire. Free travel and mobile testing at your storage.
+permalink: /bouncy-castle-inspections-atherstone/
 blocks:
   - type: hero
     badge: Warwickshire

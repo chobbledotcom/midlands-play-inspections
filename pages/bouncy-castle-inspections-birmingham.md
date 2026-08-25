@@ -2,6 +2,7 @@
 name: Birmingham
 meta_title: Bouncy Castle Inspections in Birmingham
 meta_description: PIPA testing and RPII inflatable inspections across Birmingham. Mobile testing for hire fleets, schools and community venues, with free travel from Warwickshire.
+permalink: /bouncy-castle-inspections-birmingham/
 blocks:
   - type: hero
     badge: West Midlands
