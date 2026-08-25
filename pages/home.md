@@ -67,7 +67,7 @@ blocks:
     dark: false
     compact: false
     items:
-      - value: 140+
+      - value: 40+
         label: Check points per inflatable
       - value: "14960"
         label: The standard we test to
@@ -82,14 +82,10 @@ blocks:
     content: |-
       ## Does my bouncy castle legally need testing?
 
-      If you hire inflatables out for money, they have to be inspected. Health
-      and safety law requires equipment offered to the public for commercial
-      hire to have in-service safety inspections, and HSE guidance expects
+      If you hire inflatables out for money, they have to be inspected. Health  
+      and safety law requires equipment offered to the public for commercial  
+      hire to have in-service safety inspections, and HSE guidance expects  
       amusement devices to be checked **annually by a competent person**.
-
-      PIPA is one of two inspection schemes named in HSE's guidance, HSG175.
-      A current PIPA tag is the quickest way to show a venue, a school or an
-      insurer that the unit in front of them has been through that check.
 
       Domestic owners aren't covered by the same duty, but if you lend or hire
       your unit to anyone else, you are.
@@ -100,7 +96,7 @@ blocks:
       variant: secondary
     figure_icon: hugeicons:shield-01
     figure_name: Annual inspection
-    figure_subtitle: BS EN 14960-1:2019 · HSG175 · PUWER
+    figure_subtitle: BS EN 14960-1:2019
     figure_variant: primary
   - type: split-full
     dark: false
@@ -109,27 +105,22 @@ blocks:
     left_content: |-
       ## What we inspect
 
-      Bouncy castles and bounce-and-slide units. Inflatable slides, obstacle
-      courses and assault courses. Disco domes, soft play and ball pools.
-      Bungee runs, gladiator duels and other non-ride-on games. Sealed
-      inflatables and units outside the PIPA scope get an EN 14960 or
+      Bouncy castles and bounce-and-slide units. Inflatable slides, obstacle  
+      courses and assault courses. Disco domes and ball pools.  
+      Bungee runs, gladiator duels and other non-ride-on games. Sealed  
+      inflatables and units outside the scope get an EN 14960 or  
       bespoke inspection instead.
     left_button:
       text: Full equipment list
       href: /what-we-inspect/
       variant: primary
-    right_content: >-
+    right_content: |-
       ## Where we cover
 
-
-      Based in Warwickshire, covering Coventry, Birmingham, Solihull, Rugby,
-
-      Leamington, Warwick, Stratford, Redditch, Worcester, Leicester,
-
-      Northampton, Wolverhampton, Telford, Derby, Nottingham and the towns
-
-      in between. Further afield by arrangement, because we travel for fleet
-      days.
+      Based in Warwickshire, covering Coventry, Birmingham, Solihull, Rugby,  
+      Leamington, Warwick, Stratford, Redditch, Worcester, Leicester,  
+      Northampton, Wolverhampton, Telford, Derby, Nottingham and the towns  
+      in between. Further afield by arrangement.
     right_button:
       text: Check your area
       href: /areas-we-cover/
