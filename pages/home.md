@@ -31,7 +31,7 @@ blocks:
         size: lg
     class: gradient
   - type: features
-    dark: false
+    dark: true
     compact: false
     items:
       - icon: hugeicons:certificate-01
