@@ -39,9 +39,9 @@ blocks:
         description: Inspections carried out by a registered inflatable inspector,
           working to BS EN 14960-1:2019.
       - icon: hugeicons:tag-01
-        name: PIPA tags issued
-        description: Qualifying units get a PIPA tag and a report on the national
-          database, so hirers can check it themselves.
+        name: Real industry experience
+        description: Inspections carried out by someone with hands-on experience of
+          inflatable hire, including everyday setup, operation and safety.
       - icon: hugeicons:truck-delivery
         name: We come to you
         description: We test at your unit, yard or storage, so you don't have to haul a
