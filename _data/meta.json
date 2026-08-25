@@ -1,28 +1,30 @@
 {
-	"language": "en-GB",
-	"organization": {
-		"description": "RPII inflatable inspections and PIPA testing across the Midlands, carried out by a working hire operator.",
-		"legalName": "Midland Play Inspections",
-		"foundingDate": "2026",
-		"founders": [
-			{
-				"name": "Luke"
-			}
-		],
-		"address": {
-			"streetAddress": "16 Stratford Road, Lighthorne Heath",
-			"addressLocality": "Leamington Spa",
-			"addressRegion": "Warwickshire",
-			"postalCode": "CV33 9TN",
-			"addressCountry": "GB"
-		},
-		"contactPoint": [
-			{
-				"telephone": "+44-7761-907472",
-				"contactType": "customer service",
-				"areaServed": "GB",
-				"availableLanguage": ["English"]
-			}
-		]
-	}
+  "language": "en-GB",
+  "organization": {
+    "description": "RPII inflatable inspections and testing across the Midlands, carried out by a working hire operator.",
+    "legalName": "Midland Play Inspections",
+    "foundingDate": "2026",
+    "founders": [
+      {
+        "name": "Luke"
+      }
+    ],
+    "address": {
+      "streetAddress": "16 Stratford Road, Lighthorne Heath",
+      "addressLocality": "Leamington Spa",
+      "addressRegion": "Warwickshire",
+      "postalCode": "CV33 9TN",
+      "addressCountry": "GB"
+    },
+    "contactPoint": [
+      {
+        "telephone": "07743 568 812",
+        "contactType": "customer service",
+        "areaServed": "GB",
+        "availableLanguage": [
+          "English"
+        ]
+      }
+    ]
+  }
 }
