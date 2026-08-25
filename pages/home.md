@@ -47,9 +47,8 @@ blocks:
         description: We test at your unit, yard or storage, so you don't have to haul a
           fleet of castles across the country.
       - icon: hugeicons:calendar-03
-        name: Off-season friendly
-        description: Winter and midweek slots so your equipment is tested when it isn't
-          earning.
+        name: Year round testing service.
+        description: We test all year round, including some weekends where needed.
       - icon: hugeicons:file-validation
         name: Reports that stand up
         description: A clear PDF report you can forward straight to a venue, a school or
