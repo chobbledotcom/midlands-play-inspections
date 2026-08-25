@@ -11,7 +11,7 @@ eleventyNavigation:
   order: 1
 blocks:
   - type: hero
-    dark: false
+    dark: true
     compact: false
     badge: RPII inflatable inspections
     content: >-
