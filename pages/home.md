@@ -11,8 +11,8 @@ eleventyNavigation:
   order: 1
 blocks:
   - type: hero
-    dark: false
-    compact: false
+    dark: true
+    compact: true
     badge: RPII inflatable inspections
     content: |-
       # Your inflatables, tested properly, by someone who hires them out too
