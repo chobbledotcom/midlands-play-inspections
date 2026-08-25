@@ -2,6 +2,7 @@
 name: Leicestershire and Rutland
 meta_title: Bouncy Castle Inspections in Leicestershire and Rutland
 meta_description: PIPA testing and RPII inflatable inspections across Leicestershire and Rutland, covering Leicester, Hinckley, Loughborough, Market Harborough and Oakham.
+permalink: /bouncy-castle-inspections-leicestershire/
 blocks:
   - type: hero
     badge: Wider Midlands

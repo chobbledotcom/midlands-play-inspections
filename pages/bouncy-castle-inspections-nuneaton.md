@@ -2,6 +2,7 @@
 name: Nuneaton
 meta_title: Bouncy Castle Inspections in Nuneaton
 meta_description: PIPA testing and RPII inflatable inspections in Nuneaton and the CV10 and CV11 postcodes, with free travel across Warwickshire and testing at your storage.
+permalink: /bouncy-castle-inspections-nuneaton/
 blocks:
   - type: hero
     badge: Warwickshire

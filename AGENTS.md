@@ -224,6 +224,13 @@ uses Bun's `fetch`, which the agent proxy blocks.
 Only `pages`, `news` and `snippets` are enabled. If you add a collection, enable
 it here as well or it will not appear in the CMS.
 
+**One local divergence to re-apply after every regeneration:** the pages
+collection's `view` in `.pages.yml` uses `name` as the list column, `primary`
+and `sort` field, so the CMS selector shows page names. The template's
+`customise-cms` script hardcodes `meta_title` there (`RAW_VIEW_CONFIGS` in
+`scripts/customise-cms/collection-config.js`) and offers no config hook, so
+regenerating puts `meta_title` back. Swap it to `name` again before committing.
+
 ### Screenshotting
 
 Chromium is at `/opt/pw-browsers/chromium` and Playwright is configured to find

@@ -2,6 +2,7 @@
 name: Northamptonshire and Milton Keynes
 meta_title: Bouncy Castle Inspections in Northamptonshire and Milton Keynes
 meta_description: PIPA testing and RPII inflatable inspections across Northamptonshire and Milton Keynes, covering Northampton, Daventry, Kettering, Corby and Wellingborough.
+permalink: /bouncy-castle-inspections-northamptonshire/
 blocks:
   - type: hero
     badge: Wider Midlands

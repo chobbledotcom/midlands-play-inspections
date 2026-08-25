@@ -2,6 +2,7 @@
 name: Bedworth
 meta_title: Bouncy Castle Inspections in Bedworth
 meta_description: PIPA testing and RPII inflatable inspections in Bedworth and the CV12 postcode. Mobile testing at your storage, with free travel across Warwickshire.
+permalink: /bouncy-castle-inspections-bedworth/
 blocks:
   - type: hero
     badge: Warwickshire

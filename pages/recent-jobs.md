@@ -2,6 +2,7 @@
 name: Recent Jobs
 meta_title: Recent Inspection Jobs
 meta_description: Photos and write-ups from recent inflatable inspections across the Midlands, showing who we tested for, what we found, and links to the hire companies we work with.
+permalink: /recent-jobs/
 eleventyNavigation:
   key: Recent Jobs
   order: 4

@@ -2,6 +2,7 @@
 name: Inspections
 meta_title: PIPA Testing & RPII Inflatable Inspections
 meta_description: What happens during an annual inflatable inspection, covering the BS EN 14960 checks we carry out, the PIPA tag and report you receive, and how to book a test in the Midlands.
+permalink: /inflatable-testing/
 eleventyNavigation:
   key: Inspections
   order: 2

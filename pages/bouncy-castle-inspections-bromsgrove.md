@@ -2,6 +2,7 @@
 name: Bromsgrove
 meta_title: Bouncy Castle Inspections in Bromsgrove
 meta_description: PIPA testing and RPII inflatable inspections in Bromsgrove and the B60 and B61 postcodes, with mobile testing at your storage and travel quoted up front.
+permalink: /bouncy-castle-inspections-bromsgrove/
 blocks:
   - type: hero
     badge: Worcestershire

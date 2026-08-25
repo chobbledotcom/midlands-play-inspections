@@ -2,6 +2,7 @@
 name: Southam
 meta_title: Bouncy Castle Inspections in Southam
 meta_description: PIPA testing and RPII inflatable inspections in Southam and the CV47 postcode. We are ten minutes away, and travel across Warwickshire is free.
+permalink: /bouncy-castle-inspections-southam/
 blocks:
   - type: hero
     badge: Warwickshire

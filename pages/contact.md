@@ -2,6 +2,7 @@
 name: Contact
 meta_title: Book an Inspection
 meta_description: Book a PIPA test or RPII inflatable inspection in the Midlands. Send us your equipment list for a fixed price and the next available date.
+permalink: /contact/
 schema_type: organization
 eleventyNavigation:
   key: Contact

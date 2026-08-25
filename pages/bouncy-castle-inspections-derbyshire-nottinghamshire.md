@@ -2,6 +2,7 @@
 name: Derbyshire and Nottinghamshire
 meta_title: Bouncy Castle Inspections in Derbyshire and Nottinghamshire
 meta_description: PIPA testing and RPII inflatable inspections across Derbyshire and Nottinghamshire, covering Derby, Nottingham, Chesterfield, Mansfield and Newark.
+permalink: /bouncy-castle-inspections-derbyshire-nottinghamshire/
 blocks:
   - type: hero
     badge: Wider Midlands

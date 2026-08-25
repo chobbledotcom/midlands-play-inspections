@@ -839,10 +839,10 @@ content:
     view:
       fields:
         - permalink
-        - meta_title
-      primary: meta_title
+        - name
+      primary: name
       sort:
-        - meta_title
+        - name
     fields:
       - { name: name, type: string, label: Name, required: true }
       - { name: subtitle, type: string, label: Subtitle }

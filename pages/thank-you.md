@@ -2,6 +2,7 @@
 name: Thank You
 meta_description:
 meta_title: Thank You
+permalink: /thank-you/
 navigationParent: Contact
 no_index: true
 blocks:

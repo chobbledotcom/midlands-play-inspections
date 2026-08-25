@@ -2,6 +2,7 @@
 name: What We Inspect
 meta_title: Equipment We Inspect
 meta_description: Bouncy castles, slides, obstacle courses, disco domes, soft play, ball pools, bungee runs and non ride-on games, all inspected and tested to BS EN 14960.
+permalink: /what-we-inspect/
 navigationParent: Inspections
 eleventyNavigation:
   key: What We Inspect

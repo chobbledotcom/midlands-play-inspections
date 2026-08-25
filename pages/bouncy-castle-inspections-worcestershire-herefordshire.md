@@ -2,6 +2,7 @@
 name: Worcestershire and Herefordshire
 meta_title: Bouncy Castle Inspections in Worcestershire and Herefordshire
 meta_description: PIPA testing and RPII inflatable inspections across Worcestershire and Herefordshire, covering Worcester, Kidderminster, Malvern, Evesham, Hereford and Leominster.
+permalink: /bouncy-castle-inspections-worcestershire-herefordshire/
 blocks:
   - type: hero
     badge: Wider Midlands

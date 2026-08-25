@@ -2,6 +2,7 @@
 name: About
 meta_title: About Midland Play Inspections
 meta_description: Midland Play Inspections is run by Luke, who has hired inflatables out across Warwickshire since 2011. An inspector who runs a fleet of his own.
+permalink: /about/
 eleventyNavigation:
   key: About
   order: 5

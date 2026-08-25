@@ -2,6 +2,7 @@
 name: Safety Checks
 meta_title: Bouncy Castle Safety Checks, Anchorage and Wind Limits
 meta_description: What an inflatable operator has to do between annual inspections. Anchor points, the 24mph wind limit, daily pre-use checks and supervision, set out plainly.
+permalink: /inflatable-safety-checks/
 navigationParent: Inspections
 eleventyNavigation:
   key: Safety Checks

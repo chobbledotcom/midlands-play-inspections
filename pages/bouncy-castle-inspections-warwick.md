@@ -2,6 +2,7 @@
 name: Warwick
 meta_title: Bouncy Castle Inspections in Warwick
 meta_description: PIPA testing and RPII inflatable inspections in Warwick and the CV34 postcode. Mobile testing at your unit or storage, with free travel across Warwickshire.
+permalink: /bouncy-castle-inspections-warwick/
 blocks:
   - type: hero
     badge: Warwickshire

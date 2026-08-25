@@ -2,6 +2,7 @@
 name: Kenilworth
 meta_title: Bouncy Castle Inspections in Kenilworth
 meta_description: PIPA testing and RPII inflatable inspections in Kenilworth and the CV8 postcode. We travel to your storage, and travel is free across Warwickshire.
+permalink: /bouncy-castle-inspections-kenilworth/
 blocks:
   - type: hero
     badge: Warwickshire

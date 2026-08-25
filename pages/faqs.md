@@ -2,6 +2,7 @@
 name: FAQs
 meta_title: Inflatable Inspection FAQs
 meta_description: Answers on PIPA tags, RPII inspectors, BS EN 14960, how often bouncy castles need testing, what the law requires and what venues and schools ask to see.
+permalink: /faqs/
 eleventyNavigation:
   key: FAQs
   order: 6

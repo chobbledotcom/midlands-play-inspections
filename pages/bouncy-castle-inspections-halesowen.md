@@ -2,6 +2,7 @@
 name: Halesowen
 meta_title: Bouncy Castle Inspections in Halesowen
 meta_description: PIPA testing and RPII inflatable inspections in Halesowen and the B62 and B63 postcodes. Mobile testing at your unit, with travel quoted before we set off.
+permalink: /bouncy-castle-inspections-halesowen/
 blocks:
   - type: hero
     badge: West Midlands
