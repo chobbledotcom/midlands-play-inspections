@@ -224,12 +224,33 @@ uses Bun's `fetch`, which the agent proxy blocks.
 Only `pages`, `news` and `snippets` are enabled. If you add a collection, enable
 it here as well or it will not appear in the CMS.
 
-**One local divergence to re-apply after every regeneration:** the pages
-collection's `view` in `.pages.yml` uses `name` as the list column, `primary`
-and `sort` field, so the CMS selector shows page names. The template's
-`customise-cms` script hardcodes `meta_title` there (`RAW_VIEW_CONFIGS` in
-`scripts/customise-cms/collection-config.js`) and offers no config hook, so
-regenerating puts `meta_title` back. Swap it to `name` again before committing.
+**Two local divergences to re-apply after every regeneration.** Both are
+hand-edits to `.pages.yml` that the generator does not know about, so a
+regeneration silently drops them. Put them back before committing.
+
+1. **The pages collection's list column.** Its `view` in `.pages.yml` uses
+   `name` as the list column, `primary` and `sort` field, so the CMS selector
+   shows page names. The template's `customise-cms` script hardcodes
+   `meta_title` there (`RAW_VIEW_CONFIGS` in
+   `scripts/customise-cms/collection-config.js`) and offers no config hook, so
+   regenerating puts `meta_title` back. Swap it to `name` again.
+
+2. **The snippets collection's `blocks` field.** `snippets/footer-content.md`
+   holds the sitewide pre-footer band as blocks, and the base layout renders
+   them on every page, but `customise-cms` gives the snippets collection only
+   `name` and `body` (`addOptionalFields` in
+   `scripts/customise-cms/collection-config.js` returns early for snippets,
+   and `field-builders.js` builds it as name + body). That left the footer
+   copy uneditable in the CMS, so `.pages.yml` carries a `blocks` field on
+   snippets listing the 41 block types allowed there. That is every block
+   type in `BLOCK_CMS_FIELDS` whose `isBlockAllowedIn` permits snippets,
+   which works out as the news collection's list minus `news-meta`. Copy the
+   news blocks field, drop the `news-meta` entry, and paste it under the
+   snippets collection's `body` field.
+
+The second one is worth fixing upstream rather than re-applying forever. The
+template would need `addOptionalFields` to stop returning early for snippets,
+or a narrower change that appends only the blocks field.
 
 ### Screenshotting
 
