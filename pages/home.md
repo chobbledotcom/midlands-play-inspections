@@ -164,10 +164,11 @@ blocks:
   - type: cta
     dark: false
     compact: false
-    content: |-
+    content: >-
       ## Ready to get your fleet tested?
 
-      Send a list of your units and we'll come back with a price and the next  
+
+      Send a list of your units and we'll come back with a price and the next
       free date.
     button:
       text: Get a price
