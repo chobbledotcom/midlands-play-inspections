@@ -145,8 +145,7 @@ blocks:
           booked.
       - icon: hugeicons:calendar-check-in-01
         name: 3. Pick a date
-        description: We come to you, for one unit or a full fleet day, on weekdays or
-          winter weekends.
+        description: We come to you, for one unit or a full fleet.
       - icon: hugeicons:search-visual
         name: 4. We inspect
         description: We check anchorage, seams, pressure, entrapments, fall heights, the
