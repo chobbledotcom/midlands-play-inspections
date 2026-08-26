@@ -148,12 +148,11 @@ blocks:
         description: We come to you, for one unit or a full fleet.
       - icon: hugeicons:search-visual
         name: 4. We inspect
-        description: We check anchorage, seams, pressure, entrapments, fall heights, the
-          blower and the electrics.
+        description: We check anchorage, seams, pressure, entrapments, fall heights and
+          more.
       - icon: hugeicons:tag-01
-        name: 5. Tags go on
-        description: They're fitted before we leave, so you can take bookings the same
-          afternoon.
+        name: 5. Optional PAT Testing
+        description: We can PAT Test extra fans, leads, candy floss, speakers and lights.
       - icon: hugeicons:mail-send-01
         name: 6. The report lands
         description: A PDF within a few days, with any faults written out in plain English.
