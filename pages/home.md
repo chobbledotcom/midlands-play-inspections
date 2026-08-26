@@ -61,11 +61,13 @@ blocks:
         name: Faults explained
         description: If something fails, you get told what it is, why it matters and
           what will put it right.
-    intro_content: |-
+    intro_content: >-
       ## Why operators book with us
 
-      We run a hire fleet of our own. We know what a failed unit does to a
-      Saturday, and we know what a council or a school actually asks to see.
+
+      We understand the inflatable industry and the importance of keeping your
+      equipment safe, compliant and ready for use. You’ll receive clear,
+      professional inspection reports suitable for venues, schools and insurers.
     center: false
   - type: stats
     dark: false
