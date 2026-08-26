@@ -126,7 +126,7 @@ blocks:
       Based in Warwickshire, covering Coventry, Birmingham, Solihull, Rugby,  
       Leamington, Warwick, Stratford, Redditch, Worcester, Leicester,  
       Northampton, Wolverhampton, Telford, Derby, Nottingham and the towns  
-      in between. Further afield by arrangement.
+      in between. We cover all of the Midlands.
     right_button:
       text: Check your area
       href: /areas-we-cover/
