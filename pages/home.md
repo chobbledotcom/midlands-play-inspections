@@ -145,7 +145,7 @@ blocks:
           booked.
       - icon: hugeicons:calendar-check-in-01
         name: 3. Pick a date
-        description: We come to you, for one unit or a full fleet.
+        description: We come to you, for one unit or a full fleet. Dates that suit you.
       - icon: hugeicons:search-visual
         name: 4. We inspect
         description: We check anchorage, seams, pressure, entrapments, fall heights and
@@ -167,8 +167,8 @@ blocks:
     content: |-
       ## Ready to get your fleet tested?
 
-      Send a list of your units and we'll come back with a price and the next
-      free date. Fleet days across the Midlands work out cheapest per unit.
+      Send a list of your units and we'll come back with a price and the next  
+      free date.
     button:
       text: Get a price
       href: /contact/
