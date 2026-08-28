@@ -69,19 +69,29 @@ blocks:
     dark: false
     compact: false
     subtitle: The cheapest way to do it
-    content: |-
+    content: >-
       ## Fleet day rate
 
-      **£545 + travel for a full day**, covering as many units as we can get
-      through, typically eight to twelve depending on size and how well
-      organised the store is. PIPA tags and reports for everything inspected are
+
+      **£500 + travel for a full day**, covering as many units as we can get  
+
+      through, typically ten to twelve depending on size and how well  
+
+      organised the store is. Reports for everything inspected are  
+
       included.
 
-      If you've got more than about six units, a fleet day almost always beats
-      per-unit pricing. Two operators sharing a day at one venue works too, and
+
+      If you've got more than about ten units, a fleet day almost always beats  
+
+      per-unit pricing. Two operators sharing a day at one venue works too,
+      and  
+
       splits the travel between you.
 
+
       Winter and midweek days are the easiest to get and the least disruptive
+
       to your season.
     reverse: false
     button:
@@ -89,8 +99,8 @@ blocks:
       href: /contact/
       variant: primary
     figure_icon: hugeicons:calendar-03
-    figure_name: £545 + travel
-    figure_subtitle: Full day, tags and reports included
+    figure_name: £500 + travel
+    figure_subtitle: Full day, reports included
     figure_variant: gradient
   - type: callout
     dark: false
