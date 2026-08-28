@@ -99,42 +99,51 @@ blocks:
     dark: false
     compact: false
     subtitle: If something fails
-    content: |-
+    content: >-
       ## A fail isn't the end of the day
 
+
       Most failures are small: a worn anchor patch, a split seam, a missing
+
       blower guard, a net that's gone brittle. You'll be told what it is, why
+
       it matters and what will fix it, rather than just handed a red mark.
 
-      Where a repair is straightforward and can be done on the spot, we'll say
-      so. Where it needs the manufacturer or a specialist repairer, we'll point
-      you at one. Once the fix is done, the unit is re-checked and tagged,
-      usually without a second full inspection fee.
 
-      Nothing gets tagged that shouldn't be. That's the whole point of the tag
-      being worth something.
+      Where a repair is straightforward and can be done on the spot, we'll say  
+
+      so. Where it needs the manufacturer or a specialist repairer, we'll
+      point  
+
+      you at one. Once the fix is done, the unit is re-checked and tagged,  
+
+      usually without a second full inspection fee.
     reverse: true
     figure_icon: hugeicons:wrench-01
     figure_name: Re-check after repair
-    figure_subtitle: Fix it, show us, get tagged
+    figure_subtitle: Fix it, show us, Pass
     figure_variant: gradient
   - type: split-icon-links
     dark: false
     compact: false
     subtitle: Getting ready
-    content: |-
+    content: >-
       ## What we need from you on the day
 
+
       None of this is difficult, but getting it wrong is the main reason a day
+
       runs short. Every unit has to be inflated and at operating pressure to be
+
       inspected, so the limiting factor is nearly always space rather than time.
 
-      A village hall, a barn or a decent-sized industrial unit all work fine.
-      What does not work is a packed container with nowhere to lay anything out,
-      or a barn with a low collar tie when your biggest unit is a 16ft slide.
 
-      If you're not sure whether your space is big enough, send a photo and a
-      rough measurement and we'll tell you before we set off rather than after.
+      A village hall, a barn or a decent-sized industrial unit all work fine.  
+
+      What does not work is a packed container with nowhere to lay anything
+      out,  
+
+      or a barn with a low collar tie when your biggest unit is a 16ft slide.
     reverse: true
     button:
       text: Book a date
@@ -148,7 +157,7 @@ blocks:
       - icon: hugeicons:plug-socket
         text: Power, and the right blower with each unit
       - icon: hugeicons:file-01
-        text: Manufacturer's manuals if you have them
+        text: Manufacturer's manuals
       - icon: hugeicons:tag-01
         text: Last year's reports and tag numbers
       - icon: hugeicons:package
@@ -213,8 +222,8 @@ blocks:
     content: |-
       ## Book before the season starts
 
-      Winter and midweek slots go first. Get your fleet done while it isn't
-      earning, and start the season with every tag in date.
+      Winter and midweek slots go first. Get your fleet done while it isn't  
+      earning, and start the season with every test in date.
     button:
       text: Check availability
       href: /contact/
