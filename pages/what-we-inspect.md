@@ -83,10 +83,9 @@ blocks:
         description: Airbags, jump bags and bouncing pillows, including the fencing,
           fall zones and clearances around them.
     intro_content: |-
-      ## Outside the PIPA scheme
+      ## Outside of Part 1
 
-      Still inspected, still reported, still evidence of due diligence, just
-      without a PIPA tag, because the scheme's scope doesn't cover them.
+      Still inspected, still reported, still evidence of due diligence.
     center: false
   - type: callout
     dark: false
@@ -96,27 +95,34 @@ blocks:
     name: Not sure whether yours qualifies?
     content: >-
       Scheme scope changes as new inspection methods are developed, and ball
-      pits
+      pits  
 
-      were added relatively recently. Send us a photo and the make
+      were added relatively recently. Send us a photo and the make  
 
-      and model and we'll tell you straight away whether it can carry a PIPA tag
-
-      or needs the EN 14960 route instead. There's no charge for asking.
+      and model and we'll tell you straight away whether it needs the EN 14960
+      test. There's no charge for asking.
   - type: split-callout
     dark: false
     compact: false
     subtitle: Also on the day
-    content: |-
+    content: >-
       ## PAT testing while we're there
 
-      Every blower and lead we inspect gets PAT tested as part of the job. If
-      you've got other electricals in the van or the store, whether that's
-      extension leads, candy floss machines, sound gear or lighting rigs, say so
-      when you book and
+
+      Every blower we inspect gets PAT tested as part of the job. If  
+
+      you've got other electricals in the van or the store, whether that's  
+
+      extension leads, candy floss machines, sound gear or lighting rigs, say
+      so  
+
+      when you book and  
+
       we'll do those at the same time.
 
+
       It's cheaper than a separate call-out, and it means one folder of
+
       certificates rather than three.
     reverse: false
     figure_icon: hugeicons:plug-socket
