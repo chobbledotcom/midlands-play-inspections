@@ -22,10 +22,9 @@ blocks:
     compact: false
     items:
       - icon: hugeicons:tag-01
-        name: PDF Inspection Report
-        description: A clear PDF report confirming the test result, the inflatable’s
-          details and the checks completed. Easy to email to customers, venues
-          or insurers.
+        name: Reciprocal Website Link
+        description: We’ll feature your business and website in our blog section in
+          return for a link to Midland Play Inspections from your website.
       - icon: hugeicons:file-validation
         name: Written report
         description: You get a full PDF report with photographs, emailed within a few
