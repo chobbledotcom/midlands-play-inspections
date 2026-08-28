@@ -58,8 +58,8 @@ blocks:
       Warwickshire.
 
 
-      |  |  |
-      | -------------------------------- | ---- |
+      | **Equipment** | Price |
+      | -------------------------------- | ----- |
       | Bouncy castle, Inflatable | £50 |
       | 1 Blower and Fly Lead per Castle | Free |
       | Additional PAT test (Per Item) | £3 |
