@@ -56,7 +56,7 @@ blocks:
       - Operating pressure & air loss✓
       - Wall heights & containment netting✓
       - Entrapment & finger-trap checks✓
-      - Blower, ducting & electrical (PAT)✓b
+      - Blower, ducting & electrical (PAT)✓
 
   - type: section-header
     dark: false
