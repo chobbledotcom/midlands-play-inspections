@@ -102,35 +102,20 @@ blocks:
     figure_name: £500 + travel
     figure_subtitle: Full day, reports included
     figure_variant: gradient
-  - type: callout
-    dark: false
-    compact: false
-    variant: warning
-    icon: hugeicons:information-circle
-    name: These are guide prices
-    content: >-
-      Final pricing depends on unit sizes, quantity, location and condition,
-      since
-
-      an inflatable that needs stripping out of a packed store takes longer than
-
-      one laid out ready. Send a list and you'll get a fixed price in writing
-
-      before anything is booked. No call-out charges, no surprises on the day.
   - type: faqs
     dark: false
     compact: false
     items:
       - question: Do you charge for travel?
         answer: >-
-          Travel is normally free within Warwickshire and the West Midlands.
-          Beyond
+          Travel is free within Warwickshire and will depend on test amounts in
+          the Midlands. Beyond  
 
           that it's quoted up front as a single figure, never a per-mile total
-          you
+          you  
 
           find out about afterwards. On fleet days, travel is a single charge
-          for
+          for  
 
           the day regardless of how many units we get through.
       - question: What if a unit fails?
