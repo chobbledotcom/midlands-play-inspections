@@ -1,7 +1,9 @@
 ---
 name: Areas We Cover
 meta_title: Areas We Cover
-meta_description: Mobile inflatable inspections across Warwickshire, the West Midlands and the wider Midlands, covering Coventry, Birmingham, Leicester, Northampton, Worcester, Derby, Nottingham and beyond.
+meta_description: Mobile inflatable inspections across Warwickshire and the
+  Midlands, covering Coventry, Leicester, Northampton, Worcester, Derby,
+  Nottingham and beyond.
 permalink: /areas-we-cover/
 navigationParent: Inspections
 eleventyNavigation:
@@ -10,17 +12,20 @@ eleventyNavigation:
   order: 2
 blocks:
   - type: hero
+    dark: false
+    compact: false
     badge: Coverage
-    content: |
+    content: |-
       # Mobile inspections across the Midlands
 
       We come to your unit, yard or storage. We're based in Warwickshire, we're
       out most days across the Midlands, and we'll travel further for a fleet
       day. Every town below has its own page with the local detail on it.
-
   - type: split-icon-links
+    dark: false
+    compact: false
     subtitle: Home turf
-    content: |
+    content: |-
       ## South Warwickshire
 
       We're at Lighthorne Heath, just off junction 12 of the M40, so this is the
@@ -31,33 +36,35 @@ blocks:
       Southam is ten minutes away and Leamington about twenty. Rugby is the
       long end of it at around thirty-five, so that one is worth grouping if you
       can.
+    reverse: false
     button:
       text: Book a date
       href: /contact/
       variant: primary
     figure_items:
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Leamington Spa
         url: /bouncy-castle-inspections-leamington-spa/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Warwick
         url: /bouncy-castle-inspections-warwick/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Kenilworth
         url: /bouncy-castle-inspections-kenilworth/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Southam
         url: /bouncy-castle-inspections-southam/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Stratford-upon-Avon
         url: /bouncy-castle-inspections-stratford-upon-avon/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Rugby
         url: /bouncy-castle-inspections-rugby/
-
   - type: split-icon-links
+    dark: false
+    compact: false
     subtitle: Up the A46
-    content: |
+    content: |-
       ## Coventry and north Warwickshire
 
       Coventry has more inflatable hire companies in it than anywhere else we
@@ -74,22 +81,23 @@ blocks:
       href: /contact/
       variant: secondary
     figure_items:
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Coventry
         url: /bouncy-castle-inspections-coventry/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Nuneaton
         url: /bouncy-castle-inspections-nuneaton/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Bedworth
         url: /bouncy-castle-inspections-bedworth/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Atherstone
         url: /bouncy-castle-inspections-atherstone/
-
   - type: split-icon-links
+    dark: false
+    compact: false
     subtitle: M42 and M5
-    content: |
+    content: |-
       ## Birmingham and west
 
       Birmingham is about forty-five minutes up the M40 and M42, and travel
@@ -101,30 +109,32 @@ blocks:
       fleet day or shared with another operator nearby. Halesowen in particular
       is far enough that a single small unit is hard to justify, and we'd rather
       say so than take the booking.
+    reverse: false
     button:
       text: Get a fleet price
       href: /pricing/
       variant: primary
     figure_items:
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Birmingham
         url: /bouncy-castle-inspections-birmingham/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Solihull
         url: /bouncy-castle-inspections-solihull/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Redditch
         url: /bouncy-castle-inspections-redditch/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Bromsgrove
         url: /bouncy-castle-inspections-bromsgrove/
-      - icon: "hugeicons:location-01"
+      - icon: hugeicons:location-01
         text: Halesowen
         url: /bouncy-castle-inspections-halesowen/
-
   - type: split-icon-links
+    dark: false
+    compact: false
     subtitle: Regular runs
-    content: |
+    content: |-
       ## The wider Midlands
 
       These are the counties we plan proper days around, usually for one decent
@@ -141,48 +151,51 @@ blocks:
       href: /contact/
       variant: secondary
     figure_items:
-      - icon: "hugeicons:maps-location-02"
+      - icon: hugeicons:maps-location-02
         text: Leicestershire and Rutland
         url: /bouncy-castle-inspections-leicestershire/
-      - icon: "hugeicons:maps-location-02"
+      - icon: hugeicons:maps-location-02
         text: Northamptonshire and Milton Keynes
         url: /bouncy-castle-inspections-northamptonshire/
-      - icon: "hugeicons:maps-location-02"
+      - icon: hugeicons:maps-location-02
         text: Worcestershire and Herefordshire
         url: /bouncy-castle-inspections-worcestershire-herefordshire/
-      - icon: "hugeicons:maps-location-02"
+      - icon: hugeicons:maps-location-02
         text: Staffordshire, Stoke and Telford
         url: /bouncy-castle-inspections-staffordshire-shropshire/
-      - icon: "hugeicons:maps-location-02"
+      - icon: hugeicons:maps-location-02
         text: Oxfordshire and Gloucestershire
         url: /bouncy-castle-inspections-oxfordshire-gloucestershire/
-      - icon: "hugeicons:maps-location-02"
+      - icon: hugeicons:maps-location-02
         text: Derbyshire and Nottinghamshire
         url: /bouncy-castle-inspections-derbyshire-nottinghamshire/
-
   - type: callout
+    dark: false
+    compact: false
     variant: info
-    icon: "hugeicons:truck-delivery"
+    icon: hugeicons:truck-delivery
     name: Outside the Midlands?
-    content: |
+    content: |-
       We'll travel nationally for a full fleet day where it makes sense for both
       of us. Get in touch with what you've got and roughly where you are, and
       we'll tell you honestly whether we're the right people or whether there's
       an inspector closer to you worth calling first.
-
   - type: stats
+    dark: false
+    compact: false
     items:
-      - value: "Free"
+      - value: Free
         label: Warwickshire travel
-      - value: "1hr"
+      - value: 1hr
         label: To the West Midlands
-      - value: "6 days"
+      - value: 6 days
         label: A week in season
-      - value: "UK-wide"
+      - value: UK-wide
         label: For fleet days
-
   - type: cta
-    content: |
+    dark: false
+    compact: false
+    content: |-
       ## Not sure if we come to you?
 
       Just ask. Tell us your postcode and what you've got, and we'll give you a
@@ -192,4 +205,5 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
+no_index: false
 ---
