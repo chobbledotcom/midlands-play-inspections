@@ -73,7 +73,7 @@ blocks:
     dark: false
     compact: false
     items:
-      - value: 40+
+      - value: 140+
         label: Check points per inflatable
       - value: "14960"
         label: The standard we test to
