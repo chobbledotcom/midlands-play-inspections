@@ -1,7 +1,9 @@
 ---
 name: Safety Checks
 meta_title: Bouncy Castle Safety Checks, Anchorage and Wind Limits
-meta_description: What an inflatable operator has to do between annual inspections. Anchor points, the 24mph wind limit, daily pre-use checks and supervision, set out plainly.
+meta_description: What an inflatable operator has to do between annual
+  inspections. Anchor points, the 24mph wind limit, daily pre-use checks and
+  supervision, set out plainly.
 permalink: /inflatable-safety-checks/
 navigationParent: Inspections
 eleventyNavigation:
@@ -10,8 +12,10 @@ eleventyNavigation:
   order: 3
 blocks:
   - type: hero
+    dark: false
+    compact: false
     badge: Between inspections
-    content: |
+    content: |-
       # The checks that are yours, not ours
 
       An annual inspection is one day a year. The rest of it is down to whoever
@@ -21,50 +25,69 @@ blocks:
       - text: Book your annual inspection
         href: /contact/
         variant: primary
-
   - type: markdown
-    content: |
+    dark: false
+    compact: false
+    content: >-
       ## Why this page exists
 
-      Operators sometimes treat the PIPA tag as the whole job. It isn't. The tag
-      says the unit was sound on the day we looked at it, against BS EN
-      14960-1:2019. It says nothing about whether it was pegged down properly
+
+      Operators sometimes treat a tested castle as the whole job. It isn't. The
+      test  
+
+      says the unit was sound on the day we looked at it, against BS EN  
+
+      14960-1:2019. It says nothing about whether it was pegged down properly  
+
       last Saturday, or whether anybody was watching it.
 
-      HSE's guidance on inflatables is clear about where those duties sit, and
-      it sits with the operator. What follows is the short version of it. If you
-      want the full thing, it's on the HSE site under fairgrounds and
-      inflatables, and it is worth twenty minutes of anybody's time.
 
+      HSE's guidance on inflatables is clear about where those duties sit, and
+
+      it sits with the operator. What follows is the short version of it. If you
+
+      want the full thing, it's on the HSE site under fairgrounds and
+
+      inflatables, and it is worth twenty minutes of anybody's time.
   - type: features
-    intro_content: |
+    dark: false
+    compact: false
+    items:
+      - icon: hugeicons:anchor-point
+        name: Six points, minimum
+        description: Every outdoor inflatable needs at least six anchor points, and more
+          if the manufacturer says so.
+      - icon: hugeicons:ruler
+        name: Stake dimensions
+        description: Metal ground stakes at least 380mm long and 16mm wide, with rounded
+          tops and welded rings.
+      - icon: hugeicons:package
+        name: Ballast on hard ground
+        description: Where you cannot peg, at least 163kg of ballast per anchor point,
+          or ground bolts rated to 1600N.
+      - icon: hugeicons:dashboard-speed-01
+        name: The 24mph limit
+        description: No inflatable is used in winds above 24mph, which is Force 5 on the
+          Beaufort scale.
+      - icon: hugeicons:navigation-03
+        name: Measure it, don't guess
+        description: Wind speed comes off an anemometer at regular intervals. A weather
+          app tells you nothing about your field.
+      - icon: hugeicons:alert-02
+        name: Nothing improvised
+        description: Tent pegs, sandbags of unknown weight and a rope round a fence post
+          are not anchorage, whatever the day is like.
+    intro_content: |-
       ## Anchorage, the part that gets people hurt
 
       Almost every serious inflatable incident in this country has come back to
       anchorage or wind. These are the figures HSE gives.
-    items:
-      - icon: "hugeicons:anchor-point"
-        name: Six points, minimum
-        description: Every outdoor inflatable needs at least six anchor points, and more if the manufacturer says so.
-      - icon: "hugeicons:ruler"
-        name: Stake dimensions
-        description: Metal ground stakes at least 380mm long and 16mm wide, with rounded tops and welded rings.
-      - icon: "hugeicons:package"
-        name: Ballast on hard ground
-        description: Where you cannot peg, at least 163kg of ballast per anchor point, or ground bolts rated to 1600N.
-      - icon: "hugeicons:dashboard-speed-01"
-        name: The 24mph limit
-        description: No inflatable is used in winds above 24mph, which is Force 5 on the Beaufort scale.
-      - icon: "hugeicons:navigation-03"
-        name: Measure it, don't guess
-        description: Wind speed comes off an anemometer at regular intervals. A weather app tells you nothing about your field.
-      - icon: "hugeicons:alert-02"
-        name: Nothing improvised
-        description: Tent pegs, sandbags of unknown weight and a rope round a fence post are not anchorage, whatever the day is like.
-
+    center: false
   - type: split-callout
+    dark: false
+    compact: false
     subtitle: Every time it goes up
-    content: |
+    content: |-
       ## The pre-use checks
 
       These take a couple of minutes and they catch most of what goes wrong.
@@ -81,18 +104,20 @@ blocks:
 
       Then, before anybody gets on, kill the power briefly and satisfy yourself
       the unit stays rigid long enough for people to walk off it.
+    reverse: false
     button:
       text: What we check annually
       href: /inflatable-testing/
       variant: secondary
-    figure_icon: "hugeicons:search-visual"
+    figure_icon: hugeicons:search-visual
     figure_name: Pre-use checks
     figure_subtitle: Blower, fabric, shape, pressure, deflation
     figure_variant: primary
-
   - type: split-full
+    dark: false
+    compact: false
     variant: dark-left
-    left_content: |
+    left_content: |-
       ## Supervision
 
       HSE expects constant supervision by at least one suitably trained person
@@ -103,7 +128,7 @@ blocks:
       The supervisor manages how many are on at once, keeps big and small users
       apart, keeps out anybody who has been drinking, and makes sure shoes,
       glasses and anything sharp are off before people get on.
-    right_content: |
+    right_content: |-
       ## Records
 
       Keep the daily check written down. It takes seconds, and if something does
@@ -119,20 +144,22 @@ blocks:
       text: Ask us about it
       href: /contact/
       variant: secondary
-
   - type: callout
+    dark: false
+    compact: false
     variant: warning
-    icon: "hugeicons:information-circle"
+    icon: hugeicons:information-circle
     name: This page is a summary, not the regulations
-    content: |
+    content: |-
       We have kept it short deliberately. The full guidance is HSE's, the
       standard is BS EN 14960-1:2019, and your manufacturer's instructions
       override anything general where they are stricter. If you are unsure how
       something applies to a particular unit, ring us and ask rather than
       working it out from a web page.
-
   - type: cta
-    content: |
+    dark: false
+    compact: false
+    content: |-
       ## Get the annual side booked
 
       The daily checks are yours. The once-a-year inspection is ours, and it is
@@ -142,4 +169,5 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
+no_index: false
 ---
