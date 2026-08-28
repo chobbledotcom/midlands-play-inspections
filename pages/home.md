@@ -139,18 +139,18 @@ blocks:
         name: 1. Send your list
         description: Makes, rough sizes and quantities are enough for us to price it
           properly.
-      - icon: hugeicons:money-01
+      - icon: hugeicons:file-pound
         name: 2. Get a fixed price
         description: A firm figure in writing, with travel included, before anything is
           booked.
-      - icon: hugeicons:calendar-check-in-01
+      - icon: hugeicons:calendar-01
         name: 3. Pick a date
         description: We come to you, for one unit or a full fleet. Dates that suit you.
       - icon: hugeicons:search-visual
         name: 4. We inspect
         description: We check anchorage, seams, pressure, entrapments, fall heights and
           more.
-      - icon: hugeicons:tag-01
+      - icon: hugeicons:electric-plugs
         name: 5. Optional PAT Testing
         description: We can PAT Test extra fans, leads, candy floss, speakers and lights.
       - icon: hugeicons:mail-send-01
