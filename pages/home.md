@@ -42,7 +42,7 @@ blocks:
         name: RPII registered
         description: Inspections carried out by a registered inflatable inspector,
           working to BS EN 14960-1:2019.
-      - icon: hugeicons:tag-01
+      - icon: hugeicons:fortress
         name: Real industry experience
         description: Inspections carried out by someone with hands-on experience of
           inflatable hire, including everyday setup, operation and safety.
