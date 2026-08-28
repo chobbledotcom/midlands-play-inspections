@@ -51,30 +51,20 @@ blocks:
   - type: markdown
     dark: false
     compact: false
-    content: |-
+    content: |+
       ## Per-unit guide prices
 
-      Prices exclude VAT. Travel is quoted separately and is usually free within
-      Warwickshire and the West Midlands.
+      Prices. Travel is quoted separately and is free within  
+      Warwickshire.
 
 
-      | Equipment | From |
-      | ------------------------------------- | ---- |
-      | Bouncy castle, up to 18ft × 18ft | £80 |
-      | Bouncy castle, over 18ft × 18ft | £90 |
-      | Disco dome | £85 |
-      | Bounce-and-slide / combi unit | £95 |
-      | Inflatable slide, platform under 16ft | £95 |
-      | Inflatable slide, platform over 16ft | £115 |
-      | Obstacle or assault course | £110 |
-      | Bungee run / gladiator duel | £95 |
-      | Soft play set or ball pool | £55 |
-      | Non ride-on inflatable game | £55 |
-      | Additional PAT test (per item) | £3 |
+      |  |  |
+      | -------------------------------- | ---- |
+      | Bouncy castle, Inflatable | £50 |
+      | 1 Blower and Fly Lead per Castle | Free |
+      | Additional PAT test (Per Item) | £3 |
 
 
-      Sealed inflatables, jumping pillows and anything unusual are priced
-      individually, so send a photo and we'll quote it.
   - type: split-callout
     dark: false
     compact: false
