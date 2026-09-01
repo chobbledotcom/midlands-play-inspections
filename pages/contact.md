@@ -39,7 +39,7 @@ blocks:
     content: |-
       ### What happens next
 
-      We'll come back with a **fixed price in writing** and the next available  
+      We'll come back with a **fixed price in writing** and the next available
       dates. Nothing is booked until you say so, and there's no call-out charge.
     intro_content: |-
       ## Send an enquiry
@@ -62,10 +62,10 @@ blocks:
 
 
       **Winter is cheaper and easier.** More availability, less disruption,
-      and  
+      and
 
       your tests run through the whole season rather than expiring in the
-      middle  
+      middle
 
       of it.
 

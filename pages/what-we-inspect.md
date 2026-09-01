@@ -20,7 +20,7 @@ blocks:
 
 
       If it inflates and children play on it or with it, we can almost certainly
-      test it.  
+      test it.
 
       Here's the list, and what to do about the things that fall outside it.
   - type: features
@@ -95,9 +95,9 @@ blocks:
     name: Not sure whether yours qualifies?
     content: >-
       Scheme scope changes as new inspection methods are developed, and ball
-      pits  
+      pits
 
-      were added relatively recently. Send us a photo and the make  
+      were added relatively recently. Send us a photo and the make
 
       and model and we'll tell you straight away whether it needs the EN 14960
       test. There's no charge for asking.
@@ -109,14 +109,14 @@ blocks:
       ## PAT testing while we're there
 
 
-      Every blower we inspect gets PAT tested as part of the job. If  
+      Every blower we inspect gets PAT tested as part of the job. If
 
-      you've got other electricals in the van or the store, whether that's  
+      you've got other electricals in the van or the store, whether that's
 
       extension leads, candy floss machines, sound gear or lighting rigs, say
-      so  
+      so
 
-      when you book and  
+      when you book and
 
       we'll do those at the same time.
 

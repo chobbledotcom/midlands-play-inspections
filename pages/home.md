@@ -19,9 +19,9 @@ blocks:
       Midlands
 
 
-      Annual RPII inspections to BS EN 14960 for bouncy castles, slides,  
+      Annual RPII inspections to BS EN 14960 for bouncy castles, slides,
 
-      obstacle courses, disco domes and more. Mobile testing across the  
+      obstacle courses, disco domes and more. Mobile testing across the
 
       Midlands, booked around your season rather than against it.
     buttons:
@@ -88,9 +88,9 @@ blocks:
     content: |-
       ## Does my bouncy castle legally need testing?
 
-      If you hire inflatables out for money, they have to be inspected. Health  
-      and safety law requires equipment offered to the public for commercial  
-      hire to have in-service safety inspections, and HSE guidance expects  
+      If you hire inflatables out for money, they have to be inspected. Health
+      and safety law requires equipment offered to the public for commercial
+      hire to have in-service safety inspections, and HSE guidance expects
       amusement devices to be checked **annually by a competent person**.
 
       Domestic owners aren't covered by the same duty, but if you lend or hire
@@ -111,10 +111,10 @@ blocks:
     left_content: |-
       ## What we inspect
 
-      Bouncy castles and bounce-and-slide units. Inflatable slides, obstacle  
-      courses and assault courses. Disco domes and ball pools.  
-      Bungee runs, gladiator duels and other non-ride-on games. Sealed  
-      inflatables and units outside the scope get an EN 14960 or  
+      Bouncy castles and bounce-and-slide units. Inflatable slides, obstacle
+      courses and assault courses. Disco domes and ball pools.
+      Bungee runs, gladiator duels and other non-ride-on games. Sealed
+      inflatables and units outside the scope get an EN 14960 or
       bespoke inspection instead.
     left_button:
       text: Full equipment list
@@ -123,9 +123,9 @@ blocks:
     right_content: |-
       ## Where we cover
 
-      Based in Warwickshire, covering Coventry, Birmingham, Solihull, Rugby,  
-      Leamington, Warwick, Stratford, Redditch, Worcester, Leicester,  
-      Northampton, Wolverhampton, Telford, Derby, Nottingham and the towns  
+      Based in Warwickshire, covering Coventry, Birmingham, Solihull, Rugby,
+      Leamington, Warwick, Stratford, Redditch, Worcester, Leicester,
+      Northampton, Wolverhampton, Telford, Derby, Nottingham and the towns
       in between. We cover all of the Midlands.
     right_button:
       text: Check your area

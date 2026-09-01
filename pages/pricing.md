@@ -54,7 +54,7 @@ blocks:
     content: |+
       ## Per-unit guide prices
 
-      Prices. Travel is quoted separately and is free within  
+      Prices. Travel is quoted separately and is free within
       Warwickshire.
 
 
@@ -73,19 +73,19 @@ blocks:
       ## Fleet day rate
 
 
-      **£500 + travel for a full day**, covering as many units as we can get  
+      **£500 + travel for a full day**, covering as many units as we can get
 
-      through, typically ten to twelve depending on size and how well  
+      through, typically ten to twelve depending on size and how well
 
-      organised the store is. Reports for everything inspected are  
+      organised the store is. Reports for everything inspected are
 
       included.
 
 
-      If you've got more than about ten units, a fleet day almost always beats  
+      If you've got more than about ten units, a fleet day almost always beats
 
       per-unit pricing. Two operators sharing a day at one venue works too,
-      and  
+      and
 
       splits the travel between you.
 
@@ -109,13 +109,13 @@ blocks:
       - question: Do you charge for travel?
         answer: >-
           Travel is free within Warwickshire and will depend on test amounts in
-          the Midlands. Beyond  
+          the Midlands. Beyond
 
           that it's quoted up front as a single figure, never a per-mile total
-          you  
+          you
 
           find out about afterwards. On fleet days, travel is a single charge
-          for  
+          for
 
           the day regardless of how many units we get through.
       - question: What if a unit fails?

@@ -115,13 +115,13 @@ blocks:
       - question: How long does an inspection take?
         answer: >-
           A standard children's castle takes around 30 minutes to an hour.
-          Larger  
+          Larger
 
           units, obstacle courses and anything with a lot of netting take
-          longer.  
+          longer.
 
           On a fleet day we'll usually get through eight to twelve units
-          depending  
+          depending
 
           on size and how the store is laid out.
 
@@ -218,10 +218,10 @@ blocks:
       - question: Do you do repairs?
         answer: >-
           We inspect, we don't currently repair. If something fails we'll tell
-          you exactly what  
+          you exactly what
 
           it is, why it matters and what will put it right, and we'll point you
-          at a  
+          at a
 
           repairer who can do that particular job properly.
 
@@ -237,16 +237,16 @@ blocks:
       - question: What about sealed air inflatables?
         answer: >-
           They still need inspecting if you hire them out,  they sit outside
-          the  
+          the
 
           PIPA scheme a RPII test is better here, so they get a bespoke
-          inspection rather than a tag. Sealed  
+          inspection rather than a tag. Sealed
 
           units are a specialist item and the inspection looks at the design and
-          the  
+          the
 
           maintenance history as well as the condition, so send us the make,
-          model  
+          model
 
           and any paperwork you have before booking.
       - question: My unit came without an operating manual. Does that matter?
@@ -280,7 +280,7 @@ blocks:
 
 
           The same goes the other way round. If a venue asks you to prove your
-          units  
+          units
 
           are inspected, give them the tag numbers and test PDFs without fuss.
           That is what they are for.

@@ -8,9 +8,9 @@ blocks:
     content: |-
       ## Annual inspections, booked round your season
 
-      We test bouncy castles, slides, obstacle courses, disco domes, soft play  
-      and ball pools to BS EN 14960-1:2019, and we come to you anywhere across  
-      the Midlands. One unit or a full fleet, and we work all year round  
+      We test bouncy castles, slides, obstacle courses, disco domes, soft play
+      and ball pools to BS EN 14960-1:2019, and we come to you anywhere across
+      the Midlands. One unit or a full fleet, and we work all year round
       so your kit is tested when it isn't earning.
 
       Tell us what you've got and roughly where it's stored, and you'll get a

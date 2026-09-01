@@ -33,9 +33,9 @@ blocks:
 
 
       Operators sometimes treat a tested castle as the whole job. It isn't. The
-      test says the unit was sound on the day we looked at it, against BS EN  
+      test says the unit was sound on the day we looked at it, against BS EN
 
-      14960-1:2019. It says nothing about whether it was pegged down properly  
+      14960-1:2019. It says nothing about whether it was pegged down properly
 
       last Saturday, or whether anybody was watching it.
 

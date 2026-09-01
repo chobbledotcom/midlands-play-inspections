@@ -110,12 +110,12 @@ blocks:
       it matters and what will fix it, rather than just handed a red mark.
 
 
-      Where a repair is straightforward and can be done on the spot, we'll say  
+      Where a repair is straightforward and can be done on the spot, we'll say
 
       so. Where it needs the manufacturer or a specialist repairer, we'll
-      point  
+      point
 
-      you at one. Once the fix is done, the unit is re-checked and tagged,  
+      you at one. Once the fix is done, the unit is re-checked and tagged,
 
       usually without a second full inspection fee.
     reverse: true
@@ -138,10 +138,10 @@ blocks:
       inspected, so the limiting factor is nearly always space rather than time.
 
 
-      A village hall, a barn or a decent-sized industrial unit all work fine.  
+      A village hall, a barn or a decent-sized industrial unit all work fine.
 
       What does not work is a packed container with nowhere to lay anything
-      out,  
+      out,
 
       or a barn with a low collar tie when your biggest unit is a 16ft slide.
     reverse: true
@@ -222,7 +222,7 @@ blocks:
     content: |-
       ## Book before the season starts
 
-      Winter and midweek slots go first. Get your fleet done while it isn't  
+      Winter and midweek slots go first. Get your fleet done while it isn't
       earning, and start the season with every test in date.
     button:
       text: Check availability
