@@ -44,9 +44,24 @@ blocks:
       text: See what it costs
       href: /pricing/
       variant: secondary
-    figure_html: |+
-      d
+    figure_html: >-
+      Inspection reportBS EN 14960-1:2019 · illustrative extractPass- Anchorage:
+      points, straps & pegs✓
 
+
+      - Seams, stitching & fabric condition✓
+
+
+      - Operating pressure & air loss✓
+
+
+      - Wall heights & containment netting✓
+
+
+      - Entrapment & finger-trap checks✓
+
+
+      - Blower, ducting & electrical (PAT)✓
   - type: section-header
     dark: false
     compact: false
