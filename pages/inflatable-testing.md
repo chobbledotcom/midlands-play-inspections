@@ -46,7 +46,7 @@ blocks:
       variant: secondary
     figure_items:
       - icon: candy-cane
-        text: "- Anchorage: points, straps & pegs✓ "
+        text: "Anchorage: points, straps & pegs"
   - type: split-html
     dark: false
     compact: false
