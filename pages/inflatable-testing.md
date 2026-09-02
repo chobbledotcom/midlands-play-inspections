@@ -22,6 +22,31 @@ blocks:
       - text: Book yours
         href: /contact/
         variant: primary
+  - type: split-icon-links
+    dark: false
+    compact: false
+    subtitle: What you get
+    content: >-
+      ## A clear inspection report in your inbox
+
+
+      After the inspection, you’ll receive a clear **PDF inspection report**
+      identifying the inflatable by its make, serial number and size, with the
+      relevant checks and findings recorded.
+
+
+      The report is written in plain English and ready to forward directly to a
+      school, venue, council or insurer when proof of inspection is requested.
+      Any issues found will be clearly explained, so you know exactly what needs
+      attention.
+    reverse: false
+    button:
+      text: See what it costs
+      href: /pricing/
+      variant: secondary
+    figure_items:
+      - icon: candy-cane
+        text: "- Anchorage: points, straps & pegs✓ "
   - type: split-html
     dark: false
     compact: false
