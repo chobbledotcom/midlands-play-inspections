@@ -47,6 +47,16 @@ blocks:
     figure_items:
       - icon: hugeicons:candy-cane
         text: "Anchorage: points, straps & pegs"
+      - icon: hugeicons:candy-cane
+        text: Seams, stitching & fabric condition
+      - icon: hugeicons:candy-cane
+        text: Operating pressure & air loss
+      - icon: hugeicons:candy-cane
+        text: Wall heights & containment netting
+      - icon: hugeicons:candy-cane
+        text: Entrapment & finger-trap checks
+      - icon: hugeicons:candy-cane
+        text: Blower, ducting & electrical (PAT)
   - type: split-html
     dark: false
     compact: false
