@@ -45,7 +45,7 @@ blocks:
       href: /pricing/
       variant: secondary
     figure_html: |+
-      # Innspection report BS EN 14960-1:2019 · illustrative extract Pass-
+      Inspection report BS EN 14960-1:2019 · illustrative extract Pass-
 
       - Anchorage: points, straps & pegs✓  
       - Seams, stitching & fabric condition✓
