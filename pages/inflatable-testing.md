@@ -57,38 +57,6 @@ blocks:
         text: Entrapment & finger-trap checks
       - icon: hugeicons:candy-cane
         text: Blower, ducting & electrical (PAT)
-  - type: split-html
-    dark: false
-    compact: false
-    subtitle: What you get
-    content: >-
-      ## A clear inspection report in your inbox
-
-
-      After the inspection, you’ll receive a clear **PDF inspection report**
-      identifying the inflatable by its make, serial number and size, with the
-      relevant checks and findings recorded.
-
-
-      The report is written in plain English and ready to forward directly to a
-      school, venue, council or insurer when proof of inspection is requested.
-      Any issues found will be clearly explained, so you know exactly what needs
-      attention.
-    reverse: false
-    button:
-      text: See what it costs
-      href: /pricing/
-      variant: secondary
-    figure_html: |+
-      Inspection report BS EN 14960-1:2019 · illustrative extract Pass-
-
-      - Anchorage: points, straps & pegs✓  
-      - Seams, stitching & fabric condition✓
-      - Operating pressure & air loss✓
-      - Wall heights & containment netting✓
-      - Entrapment & finger-trap checks✓
-      - Blower, ducting & electrical (PAT)✓
-
   - type: section-header
     dark: false
     compact: false
