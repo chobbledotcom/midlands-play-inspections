@@ -45,18 +45,7 @@ blocks:
       href: /pricing/
       variant: secondary
     figure_html: |+
-      Inspection report
-
-      BS EN 14960-1:2019 · illustrative extract
-
-      Pass
-
-      - Anchorage: points, straps & pegs✓
-      - Seams, stitching & fabric condition✓
-      - Operating pressure & air loss✓
-      - Wall heights & containment netting✓
-      - Entrapment & finger-trap checks✓
-      - Blower, ducting & electrical (PAT)✓
+      d
 
   - type: section-header
     dark: false
@@ -99,24 +88,16 @@ blocks:
     dark: false
     compact: false
     subtitle: If something fails
-    content: >-
+    content: |-
       ## A fail isn't the end of the day
 
-
       Most failures are small: a worn anchor patch, a split seam, a missing
-
       blower guard, a net that's gone brittle. You'll be told what it is, why
-
       it matters and what will fix it, rather than just handed a red mark.
 
-
       Where a repair is straightforward and can be done on the spot, we'll say
-
-      so. Where it needs the manufacturer or a specialist repairer, we'll
-      point
-
+      so. Where it needs the manufacturer or a specialist repairer, we'll point
       you at one. Once the fix is done, the unit is re-checked and tagged,
-
       usually without a second full inspection fee.
     reverse: true
     figure_icon: hugeicons:wrench-01
@@ -127,22 +108,15 @@ blocks:
     dark: false
     compact: false
     subtitle: Getting ready
-    content: >-
+    content: |-
       ## What we need from you on the day
 
-
       None of this is difficult, but getting it wrong is the main reason a day
-
       runs short. Every unit has to be inflated and at operating pressure to be
-
       inspected, so the limiting factor is nearly always space rather than time.
 
-
       A village hall, a barn or a decent-sized industrial unit all work fine.
-
-      What does not work is a packed container with nowhere to lay anything
-      out,
-
+      What does not work is a packed container with nowhere to lay anything out,
       or a barn with a low collar tie when your biggest unit is a 16ft slide.
     reverse: true
     button:
