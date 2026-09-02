@@ -45,7 +45,7 @@ blocks:
       href: /pricing/
       variant: secondary
     figure_items:
-      - icon: candy-cane
+      - icon: hugeicons:candy-cane
         text: "Anchorage: points, straps & pegs"
   - type: split-html
     dark: false
