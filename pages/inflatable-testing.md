@@ -45,19 +45,14 @@ blocks:
       href: /pricing/
       variant: secondary
     figure_html: |+
-      Inspection report BS EN 14960-1:2019 · illustrative extract Pass-
+      # Inspection report BS EN 14960-1:2019 · illustrative extract Pass-
 
-      <br>Anchorage: points, straps & pegs✓</br>
-
-      Seams, stitching & fabric condition✓
-
-      Operating pressure & air loss✓
-
-      Wall heights & containment netting✓
-
-      Entrapment & finger-trap checks✓
-
-      Blower, ducting & electrical (PAT)✓
+      - Anchorage: points, straps & pegs✓  
+      - Seams, stitching & fabric condition✓
+      - Operating pressure & air loss✓
+      - Wall heights & containment netting✓
+      - Entrapment & finger-trap checks✓
+      - Blower, ducting & electrical (PAT)✓
 
   - type: section-header
     dark: false
