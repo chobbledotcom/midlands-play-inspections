@@ -348,17 +348,20 @@ Luke. He needs to set all of them before launch:
 ### Content and assets
 
 - **Real job photos.** `images/news/job-photo-*.svg` are placeholders that say
-  PLACEHOLDER across them. Replace with real photos and delete the SVGs. The
-  Stef's Bouncers case study photo at `images/clients/stefs-bouncers.svg` is
-  the same kind of placeholder.
+  PLACEHOLDER across them, waiting on real photos for a future job write-up.
+  Replace with real photos and delete the SVGs. The Stef's Bouncers case study
+  photo at `images/clients/stefs-bouncers.svg` is the same kind of placeholder.
+  The `site-update-*.svg` cards are branded thumbnails for changelog posts, not
+  placeholders.
 - **The Stef's Bouncers case study is mock.** `clients/stefs-bouncers.md` was
   written as a mock example for the case studies collection. The fleet details,
   the worn anchor patch and the link to stefsbouncers.co.uk are all invented.
   Confirm the job details with Luke, get the real URL, and replace the photo.
-- **Naming inspection customers.** The example job posts describe customers
-  generically ("a hire company just outside Coventry"). Ask permission and name
-  them, with a link to their site, which is the whole point of the reciprocal
-  link (see "Writing a blog post").
+- **Naming inspection customers.** There are no job write-ups on the blog at
+  the moment, and nothing on the site names an inspection customer. When a
+  write-up goes up, ask permission first and name the customer with a link to
+  their site, which is the whole point of the reciprocal link (see "Writing a
+  blog post").
 - **Guides are thin.** `/guides/` has one category and one guide, converted
   from the old blog post. It needs more pages before it earns its keep.
 - **Coverage claims.** `/areas-we-cover/` claims free travel across Warwickshire
@@ -800,56 +803,66 @@ says so.
 ## Writing a blog post
 
 Posts live in `news/`, named `YYYY-MM-DD-slug.md`, and appear at `/blog/`. The
-blog is a running log of recent site updates: new pages, new guides, and the
-odd job worth writing up. Job write-ups carry reciprocal links out to the hire
-companies whose fleets we test; guides live in `guide-pages/` instead, and
-longer client stories live in `clients/`.
+blog is **Recent site updates**: a running log of what has changed on the site,
+newest first. Most posts are site updates, one per notable change, with the
+date taken from the commit that made the change. Guides live in
+`guide-pages/` rather than the blog, and longer client stories live in
+`clients/`.
 
-### Structure
+A job write-up is the exception, not the default. Write one only when the job
+is real, the customer has agreed to be named, and there is something to link
+to. Until then a real job gets at most a line inside a site-update post.
+
+### Structure of a site-update post
 
 ```yaml
 ---
-name: A full fleet day at Best Party Hire
-subtitle: Warwickshire            # shows in the post header and on the card
+name: Twenty-one area pages
+subtitle: Coverage            # shows in the post header and on the card
 meta_title: ...
 meta_description: ...
-thumbnail: /images/news/some-photo.jpg   # REQUIRED, see below
+thumbnail: /images/news/site-update-area-pages.svg   # REQUIRED, see below
 blocks:
   - type: include
     file: news-post-header.html
   - type: news-meta
   - type: markdown
     content: |
-      What we went out to, what we found, what happened next.
-  - type: gallery
-    aspect_ratio: "4/3"
-    items:
-      - image: /images/news/some-photo.jpg
-        caption: What is actually in the picture
-  - type: split-callout
-    subtitle: Who we tested for
+      What changed, why it is there, and who it is for. Three or four short
+      paragraphs is usually enough.
+  - type: split-callout          # optional, where a link-out fits naturally
+    subtitle: Looking for a castle rather than an inspector
     content: |
-      ## Their business name
-
-      A couple of honest sentences about what they hire out and where.
+      ## The other family business
     button:
-      text: Visit their site
-      href: https://example.co.uk/
+      text: Visit Best Party Hire
+      href: https://www.bestpartyhire.com/
       variant: primary
     figure_icon: "hugeicons:castle-01"
-    figure_name: Their business name
-    figure_subtitle: What they do, where
+    figure_name: Best Party Hire
+    figure_subtitle: Bouncy castle hire, Warwickshire
     figure_variant: primary
 ---
 ```
 
-### Rules
+### Rules for site-update posts
 
 - **`thumbnail` is required.** `placeholder_images` is off in `config.json`, so a
-  post without one fails the build. Point it at one of the post's own photos.
-- **Every post ends with a reciprocal link block.** That is the point of the
-  section. Link to the hire company whose fleet we tested, with permission, or to
-  Best Party Hire where the post is about school or council equipment.
+  post without one fails the build. Use one of the branded
+  `images/news/site-update-*.svg` cards, or make a new one in the same style.
+- **Derive the post from git history.** Date it to the commit the update
+  shipped in, and describe what actually changed. A site-update post that
+  invents a change is a lie with a date on it.
+- **Keep it short.** A changelog entry is a few paragraphs. If it needs a
+  gallery, it is probably a guide or a case study instead.
+- **A link block is optional.** Where a callout fits naturally, Best Party Hire
+  is the standing link-out. Do not bolt one onto a housekeeping post.
+
+### Rules for job write-ups, when one is earned
+
+- **Every job write-up ends with a reciprocal link block.** Link to the hire
+  company whose fleet we tested, with permission, or to Best Party Hire where
+  the post is about school or council equipment.
 - **Name the customer only with their permission.** Otherwise describe them
   generically ("a hire company just outside Coventry") and say so in the Owner-
   Confirmation Backlog so Luke can go and ask.
@@ -858,8 +871,9 @@ blocks:
   A worn anchor patch on a specific corner. Without that the post is filler.
 - **Do not turn a fault into a story about the customer.** See voice principle 7.
 - **Captions describe what is in the picture**, factually, under 100 characters.
-- Photos go in `images/news/`. The placeholder SVGs currently in there say
-  PLACEHOLDER across the middle and are meant to be replaced and deleted.
+- Photos go in `images/news/`. The `job-photo-*.svg` placeholders say PLACEHOLDER
+  across the middle and are meant to be replaced by real photos and deleted.
+  The `site-update-*.svg` cards are deliberate, not placeholders.
 
 ---
 

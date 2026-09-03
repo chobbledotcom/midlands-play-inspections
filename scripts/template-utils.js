@@ -8,12 +8,15 @@ const rootExcludes = [
   ".git",
   "*.nix",
   "README.md",
+  "AGENTS.md",
+  "CLAUDE.md",
   ".build",
   "scripts",
   "node_modules",
   "package.json",
   "bun.lock",
   "old_site",
+  "_site",
   "chobble-template",
 ];
 

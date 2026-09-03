@@ -1,8 +1,9 @@
 ---
 name: Blog
-meta_title: Recent Site Updates and Inspection News
-meta_description: Updates from Midland Play Inspections, recent inspection jobs
-  across the Midlands and notes on bouncy castle safety testing.
+meta_title: Recent Site Updates
+meta_description: A log of what has changed on the Midland Play Inspections
+  site, from new pages and guides to notes on PIPA testing across the
+  Midlands.
 permalink: /blog/
 eleventyNavigation:
   key: Blog
@@ -13,9 +14,9 @@ blocks:
     compact: false
     badge: Blog
     content: |-
-      # What's new on the site
+      # Recent site updates
 
-      A running log of what's changed here: new pages, new guides, and the odd job worth writing up once we've asked the people involved.
+      A running log of what has changed here, newest first: new pages, new guides, and the occasional bit of tidying behind the scenes. The longer explanations live in the guides.
   - type: items
     dark: false
     compact: false
@@ -27,9 +28,9 @@ blocks:
     dark: false
     compact: false
     content: |-
-      ## Want your fleet on here?
+      ## Here for an inspection rather than the site news?
 
-      We're happy to link out to every hire company we test for. Get your inspection booked and we'll write the job up.
+      The rest of the site has the detail on what we check, how long it takes and what it costs. Bookings and questions go through the contact page.
     button:
       text: Book an inspection
       href: /contact/
