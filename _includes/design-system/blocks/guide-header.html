@@ -1,0 +1,23 @@
+{%- comment -%}
+  Overrides the template's version to add a last-modified line to guide pages,
+  read from the git history for the source file (the sitemap on the tickets
+  site does the same via the gitDates filter). On a build with no git history
+  for the file, such as a fresh local dev build without GIT_DATES_REPO set,
+  the line simply doesn't render.
+{%- endcomment -%}
+
+<div class="container-wide">
+  <header class="guide-header">
+    <h1>{{ name }}</h1>
+    {%- if subtitle -%}
+      <h2>{{ subtitle }}</h2>
+    {%- endif -%}
+    {%- assign git_dates = page.inputPath | gitDates -%}
+    {%- if git_dates -%}
+      <p class="guide-updated">
+        Last updated
+        <time datetime="{{ git_dates.updated | isoDate }}">{{ git_dates.updated | humanDate }}</time>
+      </p>
+    {%- endif -%}
+  </header>
+</div>

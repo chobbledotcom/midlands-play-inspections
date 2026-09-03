@@ -1,23 +1,21 @@
 ---
-name: Recent Jobs
-meta_title: Recent Inspection Jobs
-meta_description: Photos and write-ups from recent inflatable inspections across the Midlands.
-permalink: /recent-jobs/
+name: Blog
+meta_title: Recent Site Updates and Inspection News
+meta_description: Updates from Midland Play Inspections, recent inspection jobs across the Midlands and notes on bouncy castle safety testing.
+permalink: /blog/
 eleventyNavigation:
-  key: Recent Jobs
+  key: Blog
   order: 4
 blocks:
   - type: hero
     dark: false
     compact: false
-    badge: Recent blogs
+    badge: Blog
     content: |-
-      # Jobs we've been out on, and blogs
+      # What's new on the site
 
-      This is a running log of the fleets we've tested, the odd interesting
-      fault, and the hire companies we work with round the Midlands.
-
-      Then some blogs about the industry.
+      A running log of what's changed here: new pages, new guides, and the
+      odd job worth writing up once we've asked the people involved.
   - type: items
     dark: false
     compact: false

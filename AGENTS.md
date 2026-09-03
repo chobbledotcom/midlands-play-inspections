@@ -166,7 +166,10 @@ link.
 ```
 midlands-play-inspections/
 ├── pages/             # Every static page, as blocks in frontmatter
-├── news/              # Job write-ups, YYYY-MM-DD-slug.md
+├── news/              # Blog posts, YYYY-MM-DD-slug.md, listed at /blog/
+├── guide-categories/  # Guide sections, listed at /guides/
+├── guide-pages/       # Guide pages, one per topic, in a guide category
+├── clients/           # Case studies, one file per client
 ├── snippets/          # footer-content.md renders on every page
 ├── _data/             # site.json, meta.json, config.json, strings.json
 ├── _includes/         # Overrides of template includes
@@ -193,10 +196,11 @@ passthrough-copied to the live site, and the brand guidelines PDF should not be.
 | `_data/site.json` | Site name, URL, socials, opening times, and the generated `cms_config` |
 | `_data/config.json` | Feature flags. Cart and quote modes are off; `placeholder_images` is off, so every collection item needs a real `thumbnail` |
 | `_data/meta.json` | Organisation JSON-LD (address, phone, founder) |
-| `_data/strings.json` | Overrides template strings. Renames the news collection to "Recent Jobs" at `/recent-jobs/` |
+| `_data/strings.json` | Overrides template strings. Renames the news collection to "Blog" at `/blog/` and the guides to "Guides" at `/guides/` |
 | `_includes/head-scripts.html` | Favicon and theme-colour tags |
 | `_includes/navigation-start.html` | Logo and name lock-up in the header |
-| `_includes/news-post-header.html` | Override so the post header says "Recent Jobs", not "News" |
+| `_includes/news-post-header.html` | Override so the post header reads the collection label from strings.json, not a hardcoded "News" |
+| `_includes/design-system/blocks/guide-header.html` | Override that adds a last-modified line to guide pages, read from git |
 
 ### `.pages.yml` is generated, not hand-written
 
@@ -210,7 +214,8 @@ To regenerate after changing collections or bumping the template:
 bun run prepare-dev
 cd .build/dev
 bun scripts/customise-cms/index.js \
-  --collections pages,news,snippets \
+  --collections pages,news,snippets,guide-categories,guide-pages \
+  --custom-blocks-collections clients \
   --enable permalinks,faqs,galleries,no_index,use_visual_editor \
   --disable redirects,features,add_ons,external_navigation_urls,\
 external_purchases,event_locations_and_dates,parent_categories
@@ -221,8 +226,9 @@ stripped out, and copy the `cms_config` key from `.build/dev/src/_data/site.json
 back into `_data/site.json`. `bun run update-pages` does this automatically but
 uses Bun's `fetch`, which the agent proxy blocks.
 
-Only `pages`, `news` and `snippets` are enabled. If you add a collection, enable
-it here as well or it will not appear in the CMS.
+Only `pages`, `news`, `snippets`, `guide-categories` and `guide-pages` are
+enabled, plus `clients` as a custom blocks collection. If you add a collection,
+enable it here as well or it will not appear in the CMS.
 
 **Two local divergences to re-apply after every regeneration.** Both are
 hand-edits to `.pages.yml` that the generator does not know about, so a
@@ -342,11 +348,19 @@ Luke. He needs to set all of them before launch:
 ### Content and assets
 
 - **Real job photos.** `images/news/job-photo-*.svg` are placeholders that say
-  PLACEHOLDER across them. Replace with real photos and delete the SVGs.
+  PLACEHOLDER across them. Replace with real photos and delete the SVGs. The
+  Stef's Bouncers case study photo at `images/clients/stefs-bouncers.svg` is
+  the same kind of placeholder.
+- **The Stef's Bouncers case study is mock.** `clients/stefs-bouncers.md` was
+  written as a mock example for the case studies collection. The fleet details,
+  the worn anchor patch and the link to stefsbouncers.co.uk are all invented.
+  Confirm the job details with Luke, get the real URL, and replace the photo.
 - **Naming inspection customers.** The example job posts describe customers
   generically ("a hire company just outside Coventry"). Ask permission and name
   them, with a link to their site, which is the whole point of the reciprocal
-  link (see "Writing a job post").
+  link (see "Writing a blog post").
+- **Guides are thin.** `/guides/` has one category and one guide, converted
+  from the old blog post. It needs more pages before it earns its keep.
 - **Coverage claims.** `/areas-we-cover/` claims free travel across Warwickshire
   and the West Midlands, six days a week in season, and national travel for fleet
   days. Confirm.
@@ -609,7 +623,7 @@ times, including the meta description and once near the top, is good practice.
 
 ### Where to use it
 
-- Home, About, Recent Jobs, and the job posts
+- Home, About, Blog, and the guides
 - Section intros and transitions
 - Headings where SEO allows
 - Link text and button labels
@@ -783,12 +797,13 @@ says so.
 
 ---
 
-## Writing a job post
+## Writing a blog post
 
-Job posts live in `news/`, named `YYYY-MM-DD-slug.md`, and appear at
-`/recent-jobs/`. They do three jobs: they show the work is real, they give the
-site fresh pages worth indexing, and they carry reciprocal links out to the hire
-companies whose fleets we test.
+Posts live in `news/`, named `YYYY-MM-DD-slug.md`, and appear at `/blog/`. The
+blog is a running log of recent site updates: new pages, new guides, and the
+odd job worth writing up. Job write-ups carry reciprocal links out to the hire
+companies whose fleets we test; guides live in `guide-pages/` instead, and
+longer client stories live in `clients/`.
 
 ### Structure
 
@@ -995,7 +1010,7 @@ Formatting is 2-space indentation. Run `bun run lint:fix` to auto-format.
 
 For content changes:
 
-6. **Open "Refining a page"** for pages, or **"Writing a job post"** for `news/`
+6. **Open "Refining a page"** for pages, or **"Writing a blog post"** for `news/`
 7. **Read the "Trust & credentials brief"** before any copy touching
    qualifications, safety, insurance, the law or prices
 8. **Read "Voice & tone"** before writing any customer-facing prose. You have a

@@ -7,7 +7,7 @@ permalink: /contact/
 schema_type: organization
 eleventyNavigation:
   key: Contact
-  order: 7
+  order: 8
 blocks:
   - type: hero
     dark: false

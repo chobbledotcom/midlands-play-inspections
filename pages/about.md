@@ -7,7 +7,7 @@ meta_description: Midland Play Inspections is run by Luke, who has hired
 permalink: /about/
 eleventyNavigation:
   key: About
-  order: 5
+  order: 6
 blocks:
   - type: hero
     dark: false

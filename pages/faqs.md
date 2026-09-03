@@ -7,7 +7,7 @@ meta_description: Answers on PIPA tags, RPII inspectors, BS EN 14960, how often
 permalink: /faqs/
 eleventyNavigation:
   key: FAQs
-  order: 6
+  order: 7
 blocks:
   - type: hero
     dark: false

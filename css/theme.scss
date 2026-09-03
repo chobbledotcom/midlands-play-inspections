@@ -298,6 +298,14 @@ $latin-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
     }
   }
 
+  // Guide pages show when they were last touched, from git
+  .guide-header .guide-updated {
+    margin: 0;
+
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+  }
+
   .feature {
     .feature-icon,
     figure {

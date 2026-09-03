@@ -25,7 +25,9 @@
     "collections": [
       "pages",
       "snippets",
-      "news"
+      "news",
+      "guide-categories",
+      "guide-pages"
     ],
     "features": {
       "permalinks": true,
@@ -42,6 +44,9 @@
       "parent_categories": false
     },
     "hasSrcFolder": true,
-    "customHomePage": false
+    "customHomePage": false,
+    "customBlocksCollections": [
+      "clients"
+    ]
   }
 }

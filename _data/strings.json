@@ -1,4 +1,6 @@
 {
-	"news_name": "Recent Jobs",
-	"news_permalink_dir": "recent-jobs"
+	"news_name": "Blog",
+	"news_permalink_dir": "blog",
+	"guide_name": "Guides",
+	"guide_permalink_dir": "guides"
 }
