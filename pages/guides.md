@@ -16,8 +16,7 @@ blocks:
     content: |-
       # Guides
 
-      Plain answers on how inflatable inspection works: the tags, the
-      reports, the standard and what the law actually asks for.
+      Plain answers on how inflatable inspection works: the tags, the reports, the standard and what the law actually asks for.
   - type: guide-categories
   - type: cta
     dark: false
@@ -25,8 +24,7 @@ blocks:
     content: |-
       ## Rather ask a person?
 
-      Everything on this site is also available by phone, from the person
-      who does the inspections.
+      Everything on this site is also available by phone, from the person who does the inspections.
     button:
       text: Get in touch
       href: /contact/

@@ -7,8 +7,6 @@ blocks:
   - type: guide-header
   - type: markdown
     content: |-
-      The guides in this section cover what the tag on the corner of a
-      castle means, what the law asks for behind it, and the paperwork
-      worth keeping in the van.
+      The guides in this section cover what the tag on the corner of a castle means, what the law asks for behind it, and the paperwork worth keeping in the van.
   - type: guide-pages-list
 ---
