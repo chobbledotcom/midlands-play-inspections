@@ -1,10 +1,10 @@
 ---
-name: Recent Jobs & Blogs
+name: Recent Jobs
 meta_title: Recent Inspection Jobs
 meta_description: Photos and write-ups from recent inflatable inspections across the Midlands.
-permalink: /recent-jobs-blogs/
+permalink: /recent-jobs/
 eleventyNavigation:
-  key: Recent Jobs & Blogs
+  key: Recent Jobs
   order: 4
 blocks:
   - type: hero
