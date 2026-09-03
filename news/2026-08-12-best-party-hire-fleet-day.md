@@ -71,6 +71,6 @@ blocks:
     figure_name: Best Party Hire
     figure_subtitle: Bouncy castle hire, Warwickshire
     figure_variant: primary
-date: 2026-10-03
+date: 2026-10-01
 no_index: true
 ---
