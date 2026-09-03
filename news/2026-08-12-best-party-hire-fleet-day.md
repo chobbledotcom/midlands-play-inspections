@@ -1,10 +1,8 @@
 ---
-name: A full fleet day at Best Party Hire
-subtitle: Warwickshire
-meta_title: Fleet Inspection Day at Best Party Hire, Warwickshire
-meta_description: A full day of PIPA inspections across a Warwickshire hire
-  fleet, covering castles, a bounce-and-slide, a disco dome and the soft play,
-  all tagged in a day.
+name: Do tested bouncy castles need a tag?
+subtitle: Are tags a requirement of inflatables?
+meta_title: Do tested bouncy castles need a tag?
+meta_description: Do tested bouncy castles need a tag? PIPA or otherwise, what's the rules.
 thumbnail: /images/news/job-photo-1.svg
 blocks:
   - type: include
