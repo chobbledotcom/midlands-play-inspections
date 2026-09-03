@@ -1,26 +1,34 @@
 ---
-name: Recent Jobs
+name: Recent Jobs & Blogs
 meta_title: Recent Inspection Jobs
-meta_description: Photos and write-ups from recent inflatable inspections across the Midlands, showing who we tested for, what we found, and links to the hire companies we work with.
+meta_description: Photos and write-ups from recent inflatable inspections across the Midlands.
 permalink: /recent-jobs/
 eleventyNavigation:
   key: Recent Jobs
   order: 4
 blocks:
   - type: hero
+    dark: false
+    compact: false
     badge: Recent work
-    content: |
-      # Jobs we've been out on
+    content: |-
+      # Jobs we've been out on, and blogs
 
       This is a running log of the fleets we've tested, the odd interesting
       fault, and the hire companies we work with round the Midlands.
 
+      Then some blogs about the industry.
   - type: items
+    dark: false
+    compact: false
     collection: news
-    image_aspect_ratio: "4/3"
-
+    horizontal: false
+    masonry: false
+    image_aspect_ratio: 4/3
   - type: cta
-    content: |
+    dark: false
+    compact: false
+    content: |-
       ## Want your fleet on here?
 
       We're happy to link out to every hire company we test for. Get your
@@ -30,4 +38,5 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
+no_index: false
 ---
