@@ -72,5 +72,5 @@ blocks:
     figure_subtitle: Bouncy castle hire, Warwickshire
     figure_variant: primary
 date: 2026-10-01
-no_index: true
+no_index: false
 ---
