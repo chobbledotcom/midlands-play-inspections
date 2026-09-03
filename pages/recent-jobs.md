@@ -10,7 +10,7 @@ blocks:
   - type: hero
     dark: false
     compact: false
-    badge: Recent work
+    badge: Recent blogs
     content: |-
       # Jobs we've been out on, and blogs
 
