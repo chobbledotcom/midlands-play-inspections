@@ -1,10 +1,10 @@
 ---
 name: Best Party Hire
 subtitle: Annual fleet inspection
-meta_title: Fleet Inspection Case Study, Best Party Hire
-meta_description: How a fleet day for a Warwickshire hire company tested nine
-  inflatables to BS EN 14960-1:2019 in one visit, with tags fitted and reports
-  out the same week.
+meta_title: Best Party Hire RPII Inspections | Midland Play Inspections
+meta_description: See how we inspect Best Party Hire’s inflatables, including an
+  Airquee adult bouncy castle, with checks on air pressure, stitching and
+  dimensions.
 thumbnail: /images/bestpartyhirsk05aa03c.jpg
 blocks:
   - type: hero
