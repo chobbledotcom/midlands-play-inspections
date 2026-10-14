@@ -51,7 +51,13 @@ blocks:
       pressure measured 1.3 kPa, and all the stitching and artwork were in good
       condition.
 
-        
+
+      This first test took me an hour, although I was also filming and taking
+      photographs. I have since carried out another test, which took just 20
+      minutes—the time I would typically expect an inspection of a simple bouncy
+      castle to take.
+
+
       We also PAT tested the inflation fan and fly lead while carrying out the
       bouncy castle inspection.
   - type: split-callout
