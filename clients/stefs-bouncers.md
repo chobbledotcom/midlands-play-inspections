@@ -37,6 +37,9 @@ blocks:
       - image: /images/checking-the-height-4.jpg
         name: Checking height
         description: Checking the height of an adult castle
+      - image: /images/checking-the-stitch.jpg
+        name: Checking stitch
+        description: Checking the stitch condition and gap
   - type: markdown
     dark: false
     compact: false
