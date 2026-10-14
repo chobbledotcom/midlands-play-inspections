@@ -27,6 +27,12 @@ blocks:
       Best Party Hire has around 20 bouncy castles, including standard castles,
       combi castles and fun runs, plus approximately 10 other inflatables, such
       as football shootouts, ball pools and Grand Prix tracks.
+  - type: image-cards
+    dark: false
+    compact: false
+    items:
+      - image: /images/checking-the-height-4.jpg
+        name: Checking the height of an adult castle
   - type: markdown
     dark: false
     compact: false
@@ -75,11 +81,5 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
-  - type: image-cards
-    dark: false
-    compact: false
-    items:
-      - image: /images/checking-the-height-4.jpg
-        name: Checking the height of an adult castle
 no_index: false
 ---
