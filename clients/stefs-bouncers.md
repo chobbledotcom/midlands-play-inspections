@@ -12,11 +12,11 @@ blocks:
     compact: false
     badge: Case study
     content: >-
-      # Stef's Bouncers, annual fleet inspection
+      # Best Party Hire's drip inspections.
 
 
-      We tested nine units in one morning and all nine had a report in Stef's
-      inbox before the weekend bookings started.
+      As we also run Best Party Hire, we have been carrying out tests on our own
+      inflatables on an ad hoc basis.
   - type: markdown
     dark: false
     compact: false
@@ -24,16 +24,9 @@ blocks:
       ## What we went out to do
 
 
-      Stef's Bouncers hire castles and soft play round the local villages, and
-      like everybody with a fleet they need the whole lot inspected annually to
-      keep the bookings coming. Their tags were spread across three different
-      expiry dates, which meant three separate phone calls a year to keep
-      straight, so this time we booked the lot for one morning at their storage
-      unit.
-
-
-      The fleet is nine units, a mix of adult castles, toddler castles and a
-      bungee run that takes longer to inflate than to test.
+      Best Party Hire has around 20 bouncy castles, including standard castles,
+      combi castles and fun runs, plus approximately 10 other inflatables, such
+      as football shootouts, ball pools and Grand Prix tracks.
   - type: markdown
     dark: false
     compact: false
