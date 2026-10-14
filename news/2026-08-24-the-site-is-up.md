@@ -17,17 +17,18 @@ blocks:
     dark: false
     compact: false
     content: >-
-      The site went up today. It was put together on the Chobble template, which
+      The site went up today. It was put together on the Chobble template,
+      which  
 
-      handles the technical side and left the time free for the words, which is
-
-      the part worth spending it on.
+      handles the technical side.
 
 
-      What is on it so far: pages on what we inspect, what an inflatable
-      safety  
+      What is on it so far: pages on what we inspect, what an [inflatable
+      safety](https://www.midlandplayinspections.co.uk/what-we-inspect/)  
 
-      check involves, what RPII testing is for, the prices, and the questions  
+      [check
+      involves](https://www.midlandplayinspections.co.uk/what-we-inspect/), what
+      RPII testing is for, the prices, and the questions  
 
       people ask before booking. The [pricing
       page](https://www.midlandplayinspections.co.uk/pricing/) carries guide
