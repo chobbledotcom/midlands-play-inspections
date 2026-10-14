@@ -12,11 +12,11 @@ blocks:
     compact: false
     badge: Case study
     content: >-
-      # Best Party Hire's drip inspections.
+      # Best Party Hire's drip inspections
 
 
-      As we also run Best Party Hire, we have been carrying out tests on our own
-      inflatables on an ad hoc basis.
+      Below is our case study on the tests we conduct for our own business Best
+      Party Hire.
   - type: markdown
     dark: false
     compact: false
@@ -27,6 +27,11 @@ blocks:
       Best Party Hire has around 20 bouncy castles, including standard castles,
       combi castles and fun runs, plus approximately 10 other inflatables, such
       as football shootouts, ball pools and Grand Prix tracks.
+
+
+      As we run the business ourselves, we carry out tests on an ad hoc basis.
+      This works well for us, as we can test when the weather is good or when we
+      have enough time before a hire starts.
   - type: image-cards
     dark: false
     compact: false
@@ -47,13 +52,10 @@ blocks:
       ## Recent Testing: Airquee Adult Castle
 
 
-      We carry out inflatable tests on an ad hoc basis, either in the back
-      garden when the weather allows or on site before a hire, provided there is
-      enough time to complete the test.
-
-
       Recently, we tested an adult bouncy castle from Airquee. Like many of the
-      Airquee inflatables we have tested, it passed without any issues.
+      Airquee inflatables we have tested, it passed without any issues. The air
+      pressure measured 1.3 kPa, and all the stitching and artwork were in good
+      condition.
   - type: split-callout
     dark: false
     compact: false
