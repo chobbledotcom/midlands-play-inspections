@@ -76,4 +76,8 @@ blocks:
       variant: secondary
       size: lg
 no_index: false
+gallery:
+  - /images/checking-the-height-2.jpg
+  - /images/checking-the-height.jpg
+  - /images/internal-wall-height.jpg
 ---
