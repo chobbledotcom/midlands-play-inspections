@@ -75,5 +75,11 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
+  - type: image-cards
+    dark: false
+    compact: false
+    items:
+      - image: /images/checking-the-height-4.jpg
+        name: Checking the height of an adult castle
 no_index: false
 ---
