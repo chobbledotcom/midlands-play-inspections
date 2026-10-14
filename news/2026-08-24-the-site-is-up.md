@@ -2,16 +2,21 @@
 name: The site is up
 subtitle: Launch
 meta_title: The New Midland Play Inspections Site
-meta_description: The new site is up, covering PIPA testing and annual
-  inflatable inspections across the Midlands. What is on it and where to
-  look.
+meta_description: The new site is up, covering RPII testing and annual
+  inflatable inspections across the Midlands. What is on it and where to look.
 thumbnail: /images/news/site-update-launch.svg
 blocks:
   - type: include
+    dark: false
+    compact: false
     file: news-post-header.html
   - type: news-meta
+    dark: false
+    compact: false
   - type: markdown
-    content: |
+    dark: false
+    compact: false
+    content: |-
       The site went up today. It was put together on the Chobble template, which
       handles the technical side and left the time free for the words, which is
       the part worth spending it on.
@@ -29,8 +34,10 @@ blocks:
       write-up of its own once we have asked the people involved whether they
       mind being mentioned.
   - type: split-callout
+    dark: false
+    compact: false
     subtitle: Looking for a castle rather than an inspector
-    content: |
+    content: |-
       ## The other family business
 
       If you landed here because you want a bouncy castle for a party rather
@@ -40,12 +47,15 @@ blocks:
 
       Full disclosure, it is the same family. Luke runs both. It is why we know
       what a hire season does to a fleet.
+    reverse: false
     button:
       text: Visit Best Party Hire
       href: https://www.bestpartyhire.com/
       variant: primary
-    figure_icon: "hugeicons:castle-01"
+    figure_icon: hugeicons:castle-01
     figure_name: Best Party Hire
     figure_subtitle: Bouncy castle hire, Warwickshire
     figure_variant: primary
+date: 2026-10-14
+no_index: false
 ---
