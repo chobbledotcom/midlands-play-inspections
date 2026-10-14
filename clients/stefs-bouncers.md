@@ -20,18 +20,12 @@ blocks:
   - type: markdown
     dark: false
     compact: false
-    content: >-
+    content: |-
       ## What we went out to do
 
+      Best Party Hire based in [Leamington spa](https://www.midlandplayinspections.co.uk/bouncy-castle-inspections-leamington-spa/) has around 20 bouncy castles, including standard castles, combi castles and fun runs, plus approximately 10 other inflatables, such as football shootouts, ball pools and Grand Prix tracks.
 
-      Best Party Hire has around 20 bouncy castles, including standard castles,
-      combi castles and fun runs, plus approximately 10 other inflatables, such
-      as football shootouts, ball pools and Grand Prix tracks.
-
-
-      As we run the business ourselves, we carry out tests on an ad hoc basis.
-      This works well for us, as we can test when the weather is good or when we
-      have enough time before a hire starts.
+      As we run the business ourselves, we carry out tests on an ad hoc basis. This works well for us, as we can test when the weather is good or when we have enough time before a hire starts.
   - type: image-cards
     dark: false
     compact: false
@@ -56,6 +50,10 @@ blocks:
       Airquee inflatables we have tested, it passed without any issues. The air
       pressure measured 1.3 kPa, and all the stitching and artwork were in good
       condition.
+
+        
+      We also PAT tested the inflation fan and fly lead while carrying out the
+      bouncy castle inspection.
   - type: split-callout
     dark: false
     compact: false
