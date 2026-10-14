@@ -16,22 +16,38 @@ blocks:
   - type: markdown
     dark: false
     compact: false
-    content: |-
+    content: >-
       The site went up today. It was put together on the Chobble template, which
+
       handles the technical side and left the time free for the words, which is
+
       the part worth spending it on.
 
-      What is on it so far: pages on what we inspect, what an inflatable safety
-      check involves, what PIPA testing is for, the prices, and the questions
-      people ask before booking. The pricing page carries guide figures for
-      single units and a day rate for fleet work, with the final number always
-      agreed before we set out. There are twenty-one area pages behind the
-      coverage section too, one for each town and county we named, with the
+
+      What is on it so far: pages on what we inspect, what an inflatable
+      safety  
+
+      check involves, what RPII testing is for, the prices, and the questions  
+
+      people ask before booking. The [pricing
+      page](https://www.midlandplayinspections.co.uk/pricing/) carries guide
+      figures for  
+
+      single units and a day rate for fleet work, with the final number always  
+
+      agreed before we set out. There are twenty-one area pages behind the  
+
+      coverage section too, one for each town and county we named, with the  
+
       drive from Lighthorne Heath on each.
 
+
       This blog will work as a log of what changes here. When a page goes up or
+
       a guide gets written, it gets a line below. The odd job will get a
+
       write-up of its own once we have asked the people involved whether they
+
       mind being mentioned.
   - type: split-callout
     dark: false
