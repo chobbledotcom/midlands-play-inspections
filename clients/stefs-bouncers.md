@@ -31,44 +31,34 @@ blocks:
     dark: false
     compact: false
     content: >-
-      ## How the morning went
+      ## Recent Testing: Airquee Adult Castle
 
 
-      We got there for eight and were done by half one, give or take a break
-      while the bungee run went up. Having everything accessible and the fans
-      already on site made the difference, which is the same note we leave on
-      every fleet day: you get through more units when nobody has to dig a
-      castle out from behind another one.
+      We carry out inflatable tests on an ad hoc basis, either in the back
+      garden when the weather allows or on site before a hire, provided there is
+      enough time to complete the test.
 
 
-      One toddler castle came up with a worn anchor patch on the back left
-      corner, close enough to the limit that it needed doing before the unit
-      went out again. We failed that point, wrote down exactly what was needed,
-      and the repair went in that week. We came back, re-checked it and tagged
-      it without a second inspection fee.
-
-
-      The other eight passed first time of asking and their tags went on before
-      we left. The reports landed by email over the next couple of days, and
-      Stef's had the full set in their inbox before the weekend.
+      Recently, we tested an adult bouncy castle from Airquee. Like many of the
+      Airquee inflatables we have tested, it passed without any issues.
   - type: split-callout
     dark: false
     compact: false
     subtitle: Who we tested for
     content: >-
-      ## Stef's Bouncers
+      ## Best Party Hire
 
 
-      A family run bouncy castle hire business covering the villages round
-      about, with a shed full of castles that all went back in the right order,
-      which made our morning easier than most.
+      A family-run bouncy castle hire business covering South Warwickshire since
+      2011, with over 400 five-star reviews and inflatables fully tested for the
+      year ahead.
     reverse: false
     button:
       text: Visit their site
-      href: https://www.stefsbouncers.co.uk/
+      href: https://www.bestpartyhire.com/
       variant: primary
     figure_icon: hugeicons:castle-01
-    figure_name: Stef's Bouncers
+    figure_name: Best Party Hire
     figure_subtitle: Bouncy castle hire
     figure_variant: primary
   - type: cta
