@@ -31,8 +31,12 @@ blocks:
     dark: false
     compact: false
     items:
+      - image: /images/checking-the-height-2-1.jpg
+        name: Measuring height
+        description: Taking the height measurement of the adult inflatable
       - image: /images/checking-the-height-4.jpg
-        name: Checking the height of an adult castle
+        name: Checking height
+        description: Checking the height of an adult castle
   - type: markdown
     dark: false
     compact: false
