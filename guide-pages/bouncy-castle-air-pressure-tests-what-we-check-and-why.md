@@ -23,4 +23,16 @@ blocks:
 
       At Midland Play Inspections, we check internal air pressure as part of our
       inflatable safety inspections.
+  - type: cta
+    dark: false
+    compact: false
+    content: Tags, reports and the rest of itEvery inspection we carry out comes
+      with a PDF report, and units that qualify get their tag fitted and
+      registered before we leave. If your fleet is coming up for renewal, send
+      us the list.
+    button:
+      text: Book an inspection
+      href: /contact/
+      variant: secondary
+      size: lg
 ---
