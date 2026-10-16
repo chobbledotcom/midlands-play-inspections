@@ -78,13 +78,64 @@ blocks:
 
       The correct reading must be considered alongside the inflatable’s design,
       operating instructions and applicable inspection requirements.
+  - type: markdown
+    dark: false
+    compact: false
+    content: >-
+      ## A real air pressure test
+
+
+      During a recent inspection, we measured 1.3 kPa inside an adult bouncy
+      castle. For that particular castle, the minimum pressure we were checking
+      against was 1 kPa, so it passed the pressure check.
+
+
+      ## What can cause low pressure?
+
+
+      A low reading can prompt further investigation into the inflatable and its
+      blower setup. Possible causes include:
+
+
+      - Air escaping through damaged fabric or seams.
+
+      - Deflation openings that have not been properly closed.
+
+      - A loose or poorly secured blower connection.
+
+      - An obstructed inflation tube.
+
+      - An unsuitable or poorly performing blower.
+
+
+      The pressure reading helps identify a problem, but it does not diagnose
+      the cause on its own.
+  - type: markdown
+    dark: false
+    compact: false
+    content: >-
+      ## Should pressure be checked between annual inspections?
+
+
+      Yes a manometer should be used when an inflatable is set up. If suitable
+      measuring equipment is unavailable, the inflatable should not be operated.
+
+
+      An annual inspection records the condition at the time of testing.
+      Operators still need to check the equipment during everyday use.
   - type: cta
     dark: false
     compact: false
-    content: Tags, reports and the rest of it Every inspection we carry out comes
-      with a PDF report, and units that qualify get their tag fitted and
-      registered before we leave. If your fleet is coming up for renewal, send
-      us the list.
+    content: >-
+      ## Book an inflatable safety inspection
+
+
+      Midland Play Inspections provides inflatable safety inspections across the
+      Midlands, including internal air pressure checks.
+
+
+      Get in touch to arrange an inspection for your bouncy castle or inflatable
+      fleet.
     button:
       text: Book an inspection
       href: /contact/
