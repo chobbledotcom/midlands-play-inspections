@@ -25,10 +25,10 @@ blocks:
     content: |-
       ## Fifteen years on the other side of the clipboard
 
-      Luke started hiring bouncy castles out as a family business in 2011 and
-      has been doing it ever since, through hundreds of parties, school fetes,
-      village hall bookings and corporate events across Warwickshire, from a
-      fleet that's grown a bit every year.
+      Luke started hiring bouncy castles out as a family business in 2011 and  
+      has been doing it ever since, through hundreds of parties, school fetes,  
+      village hall bookings and corporate events across Warwickshire, from a  
+      fleet that's grown every year.
 
       That means fifteen years of being inspected rather than inspecting. Of
       booking tests around a season that doesn't stop. Of chasing reports that
