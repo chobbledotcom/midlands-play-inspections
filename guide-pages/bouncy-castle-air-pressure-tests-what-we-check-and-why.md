@@ -15,14 +15,19 @@ blocks:
     dark: false
     compact: false
     content: >-
+      Written by [Luke](https://www.midlandplayinspections.co.uk/about/)
+
+
       An air pressure test measures the pressure inside an inflated bouncy
       castle using a manometer. It helps us check whether the inflatable is
       operating at the pressure it needs to support users and maintain its
       shape.
 
 
-      At Midland Play Inspections, we check internal air pressure as part of our
-      inflatable safety inspections.
+      At [Midland Play
+      Inspections](https://www.midlandplayinspections.co.uk/contact/), we check
+      internal air pressure as part of our [inflatable safety
+      inspections.](https://www.midlandplayinspections.co.uk/what-we-inspect/)
   - type: markdown
     dark: false
     compact: false
@@ -39,7 +44,8 @@ blocks:
 
 
       The pressure inside a bouncy castle or any inflatable where users will be
-      on or under the equipment must be above 1kpa.
+      on or under the equipment must be above 1kpa. Apart form a couple of
+      inflatable types, like air mountains.
 
 
       ### Supporting the walls and barriers
@@ -71,9 +77,9 @@ blocks:
       specified maximum.
 
 
-      You may see 1 kPa, approximately 4 inches water gauge, mentioned in
-      discussions about inflatable testing. That figure should not be treated as
-      a universal pass mark for every inflatable.
+      You may see 1 kPa, mentioned in discussions about inflatable testing. That
+      figure should not be treated as a universal pass mark for every
+      inflatable.
 
 
       The correct reading must be considered alongside the inflatable’s design,
