@@ -38,9 +38,8 @@ blocks:
       insufficient pressure to cushion users properly.
 
 
-      Low pressure can also leave retaining walls sagging. HSE identifies
-      underinflation that allows users to ground out or causes retaining walls
-      to sag as a potentially serious injury risk.
+      The pressure inside a bouncy castle or any inflatable where users will be
+      on or under the equipment must be above 1kpa.
 
 
       ### Supporting the walls and barriers
@@ -50,9 +49,35 @@ blocks:
       maintain their intended shape and firmness.
 
 
-      Pressure is only one part of safe operation. Correct anchoring, wind
-      monitoring, supervision and user limits are also essential; a good
-      pressure reading does not replace these checks.
+      Low pressure can allow users to fall out of the inflatable or pull down
+      the walls on to other users.
+  - type: markdown
+    dark: false
+    compact: false
+    content: >-
+      ## How do we measure the pressure?
+
+
+      We use a manometer, an instrument designed to measure pressure. We insert
+      the tube inside the inflatable, normally by the zip area.
+
+
+      ## What pressure should a bouncy castle have?
+
+
+      Always check the manufacturer’s operating manual for the pressure
+      requirements of the particular inflatable. HSE says an inflatable should
+      not be used below the manufacturer’s minimum pressure or above its
+      specified maximum.
+
+
+      You may see 1 kPa, approximately 4 inches water gauge, mentioned in
+      discussions about inflatable testing. That figure should not be treated as
+      a universal pass mark for every inflatable.
+
+
+      The correct reading must be considered alongside the inflatable’s design,
+      operating instructions and applicable inspection requirements.
   - type: cta
     dark: false
     compact: false
