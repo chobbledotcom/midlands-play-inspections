@@ -15,5 +15,4 @@ blocks:
   - type: guide-pages-list
     dark: false
     compact: false
-icon: /images/tape-measure-stroke-rounded.svg
 ---
