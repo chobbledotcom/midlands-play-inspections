@@ -87,35 +87,22 @@ blocks:
   - type: markdown
     dark: false
     compact: false
-    content: >-
+    content: |-
       ## A real air pressure test
 
-
-      During a recent inspection, we measured 1.3 kPa inside an adult bouncy
-      castle. For that particular castle, the minimum pressure we were checking
-      against was 1 kPa, so it passed the pressure check.
-
+      During a [recent inspection](https://www.midlandplayinspections.co.uk/clients/best-party-hire/), we measured 1.3 kPa inside an adult bouncy castle. For that particular castle, the minimum pressure we were checking against was 1 kPa, so it passed the pressure check.
 
       ## What can cause low pressure?
 
-
-      A low reading can prompt further investigation into the inflatable and its
-      blower setup. Possible causes include:
-
+      A low reading can prompt further investigation into the inflatable and its blower setup. Possible causes include:
 
       - Air escaping through damaged fabric or seams.
-
       - Deflation openings that have not been properly closed.
-
       - A loose or poorly secured blower connection.
-
       - An obstructed inflation tube.
-
       - An unsuitable or poorly performing blower.
 
-
-      The pressure reading helps identify a problem, but it does not diagnose
-      the cause on its own.
+      The pressure reading helps identify a problem, but it does not diagnose the cause on its own.
   - type: markdown
     dark: false
     compact: false
