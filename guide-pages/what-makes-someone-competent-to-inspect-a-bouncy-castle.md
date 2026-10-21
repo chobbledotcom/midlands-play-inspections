@@ -1,7 +1,7 @@
 ---
 name: What Makes Someone Competent to Inspect a Bouncy Castle?
 guide-category: guide-categories/inflatable-safety-tests.md
-order: 2
+order: 1
 blocks:
   - type: guide-header
     dark: false
