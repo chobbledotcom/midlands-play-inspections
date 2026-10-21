@@ -180,5 +180,6 @@ blocks:
     compact: false
     video_id: _G5zRdagXes
     thumbnail_url: https://i.ytimg.com/vi/_G5zRdagXes/hqdefault.jpg
+    video_title: Video
 no_index: false
 ---
