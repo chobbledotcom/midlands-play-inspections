@@ -26,6 +26,28 @@ blocks:
       Inspector assessments and registration schemes help provide evidence of
       competence. RPII, PIPA and ADIPS have different roles in inspector
       assessment and inflatable inspection.
+  - type: markdown
+    dark: false
+    compact: false
+    content: >-
+      ## What Does a Competent Inflatable Inspector Check?
+
+
+      A competent person carries out a thorough annual inspection of the
+      inflatable and its associated equipment. This includes checking the
+      structure, anchor points, seams, internal air pressure and blowers for
+      defects that could affect safe operation.
+
+
+      They assess the equipment against the relevant requirements of BS EN 14960
+      and the manufacturer’s instructions. New equipment requires an initial
+      test, while repaired equipment may need further inspection or testing
+      before returning to use.
+
+
+      Their role includes identifying worn fabric, damaged stitching, weakened
+      anchor points, air pressure and other defects that could lead to an
+      incident.
   - type: cta
     dark: false
     compact: false
