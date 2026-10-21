@@ -175,11 +175,15 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
-  - type: video-background
+  - type: iframe-embed
     dark: false
     compact: false
-    video_id: _G5zRdagXes
-    thumbnail_url: https://i.ytimg.com/vi/_G5zRdagXes/hqdefault.jpg
-    video_title: Video
+    src: <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/_G5zRdagXes?si=uC8Vrz_6Dh4NCCgA"
+      title="YouTube video player" frameborder="0" allow="accelerometer;
+      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+      web-share" referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen></iframe>
+    name: s
 no_index: false
 ---
