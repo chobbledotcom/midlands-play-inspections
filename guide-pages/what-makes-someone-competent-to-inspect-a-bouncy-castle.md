@@ -48,24 +48,6 @@ blocks:
       Their role includes identifying worn fabric, damaged stitching, weakened
       anchor points, air pressure and other defects that could lead to an
       incident.
-  - type: cta
-    dark: false
-    compact: false
-    content: >-
-      ## Book an inflatable safety inspection
-
-
-      Midland Play Inspections provides inflatable safety inspections across the
-      Midlands, including internal air pressure checks.
-
-
-      Get in touch to arrange an inspection for your bouncy castle or inflatable
-      fleet.
-    button:
-      text: Book an inspection
-      href: /contact/
-      variant: secondary
-      size: lg
 subtitle: A competent person has the knowledge, training and practical
   experience needed to safely test and inspect inflatable play equipment.
 ---
