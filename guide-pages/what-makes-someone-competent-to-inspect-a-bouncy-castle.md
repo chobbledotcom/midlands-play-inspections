@@ -44,4 +44,6 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
+subtitle: A competent person has the knowledge, training and practical
+  experience needed to safely test and inspect inflatable play equipment.
 ---
