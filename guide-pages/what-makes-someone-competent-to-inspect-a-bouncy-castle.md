@@ -13,7 +13,7 @@ blocks:
     dark: false
     compact: false
     content: >-
-      Written by Luke
+      Written by [Luke](https://www.midlandplayinspections.co.uk/about/)
 
 
       A competent person has the knowledge, training and practical experience
@@ -32,25 +32,14 @@ blocks:
   - type: markdown
     dark: false
     compact: false
-    content: >-
+    content: |-
       ## What Does a Competent Inflatable Inspector Check?
 
+      A competent person carries out a thorough annual inspection of the inflatable and its associated equipment. This includes checking the structure, anchor points, seams, [internal air pressure](https://www.midlandplayinspections.co.uk/guides/inflatable-safety-tests/bouncy-castle-air-pressure-tests-what-we-check-and-why/) and blowers for defects that could affect safe operation.
 
-      A competent person carries out a thorough annual inspection of the
-      inflatable and its associated equipment. This includes checking the
-      structure, anchor points, seams, internal air pressure and blowers for
-      defects that could affect safe operation.
+      They assess the equipment against the relevant requirements of BS EN 14960 and the manufacturer’s instructions. New equipment requires an initial test, while repaired equipment may need further inspection or testing before returning to use.
 
-
-      They assess the equipment against the relevant requirements of BS EN 14960
-      and the manufacturer’s instructions. New equipment requires an initial
-      test, while repaired equipment may need further inspection or testing
-      before returning to use.
-
-
-      Their role includes identifying worn fabric, damaged stitching, weakened
-      anchor points, air pressure and other defects that could lead to an
-      incident.
+      Their role includes identifying worn fabric, damaged stitching, weakened anchor points, and other defects that could lead to an incident.
 subtitle: A competent person has the knowledge, training and practical
   experience needed to safely test and inspect inflatable play equipment.
 ---
