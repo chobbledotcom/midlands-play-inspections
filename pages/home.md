@@ -178,6 +178,6 @@ blocks:
   - type: video-background
     dark: false
     compact: false
-    video_id: https://www.youtube.com/embed/_G5zRdagXes?autoplay=1&mute=1&loop=1&playlist=_G5zRdagXes&controls=0&playsinline=1
+    video_id: _G5zRdagXes
 no_index: false
 ---
