@@ -1,0 +1,47 @@
+---
+name: What Makes Someone Competent to Inspect a Bouncy Castle?
+guide-category: guide-categories/inflatable-safety-tests.md
+order: 2
+blocks:
+  - type: guide-header
+    dark: false
+    compact: false
+  - type: guide-navigation
+    dark: false
+    compact: false
+  - type: markdown
+    dark: false
+    compact: false
+    content: >-
+      A competent person has the knowledge, training and practical experience
+      needed to safely test and inspect inflatable play equipment, such as
+      bouncy castles, against the relevant requirements of BS EN 14960-1.
+
+
+      Theory alone is not enough. They also need hands-on experience with
+      inflatable equipment and the ability to recognise defects, carry out
+      appropriate tests and interpret the results.
+
+
+      Inspector assessments and registration schemes help provide evidence of
+      competence. RPII, PIPA and ADIPS have different roles in inspector
+      assessment and inflatable inspection.
+  - type: cta
+    dark: false
+    compact: false
+    content: >-
+      ## Book an inflatable safety inspection
+
+
+      Midland Play Inspections provides inflatable safety inspections across the
+      Midlands, including internal air pressure checks.
+
+
+      Get in touch to arrange an inspection for your bouncy castle or inflatable
+      fleet.
+    button:
+      text: Book an inspection
+      href: /contact/
+      variant: secondary
+      size: lg
+---
