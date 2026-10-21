@@ -13,6 +13,9 @@ blocks:
     dark: false
     compact: false
     content: >-
+      Written by Luke
+
+
       A competent person has the knowledge, training and practical experience
       needed to safely test and inspect inflatable play equipment, such as
       bouncy castles, against the relevant requirements of BS EN 14960-1.
