@@ -178,11 +178,6 @@ blocks:
   - type: video-background
     dark: false
     compact: false
-    video_id: <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/_G5zRdagXes?si=6UGbS1JxyTc3XniQ"
-      title="YouTube video player" frameborder="0" allow="accelerometer;
-      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-      web-share" referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen></iframe>
+    video_id: https://www.youtube.com/embed/_G5zRdagXes?si=6UGbS1JxyTc3XniQ
 no_index: false
 ---
