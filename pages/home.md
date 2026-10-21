@@ -175,12 +175,5 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
-  - type: iframe-embed
-    dark: false
-    compact: false
-    src: https://www.youtube.com/embed/_G5zRdagXes?si=uC8Vrz_6Dh4NCCgA
-    name: Video
-    width: 560
-    height: 315
 no_index: false
 ---
