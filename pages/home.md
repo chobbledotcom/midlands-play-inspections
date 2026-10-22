@@ -200,6 +200,9 @@ blocks:
       web-share" referrerpolicy="strict-origin-when-cross-origin"
       allowfullscreen></iframe>
     name: a
+    width: 560
+    height: 315
     allow: allow
+    intro_content: happy
 no_index: false
 ---
