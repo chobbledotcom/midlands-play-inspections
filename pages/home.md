@@ -175,11 +175,25 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
-  - type: video-background
+  - type: split-video
     dark: false
     compact: false
-    video_id: _G5zRdagXes
-    thumbnail_url: https://i.ytimg.com/vi/_G5zRdagXes/hqdefault.jpg
-    video_title: Video
+    subtitle: Meet your inspector
+    content: |
+      ## Meet Luke
+
+      Luke has hired inflatables out round Warwickshire since 2011 with
+      Best Party Hire, the family business he runs with his wife Louise,
+      and now carries out the inspections himself. In this video he talks
+      through the process of testing a unit, from arriving on site to the
+      finished report.
+    button:
+      text: Book an inspection
+      href: /contact/
+      variant: secondary
+    reverse: false
+    figure_video_id: _G5zRdagXes
+    figure_alt: Luke talking through the process of testing a unit
+    figure_caption: Luke talks through the process of testing a unit.
 no_index: false
 ---
