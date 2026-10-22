@@ -179,6 +179,7 @@ blocks:
     dark: false
     compact: false
     video_id: _G5zRdagXes
+    class: gradient
     badge: Professional Inflatable RPII Inspections and PAT Testing Across the
       Midlands
     content: Annual RPII inspections to BS EN 14960 for bouncy castles, slides,
