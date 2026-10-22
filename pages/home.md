@@ -22,6 +22,15 @@ blocks:
       obstacle courses, disco domes and more. Mobile testing across the
       Midlands, booked around your season rather than against it.
 
+    buttons:
+      - text: Book an inspection
+        href: /contact/
+        variant: primary
+        size: lg
+      - text: See what it costs
+        href: /pricing/
+        variant: secondary
+        size: lg
   - type: hero
     dark: true
     compact: true
