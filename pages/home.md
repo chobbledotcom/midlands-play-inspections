@@ -190,5 +190,15 @@ blocks:
           obstacle courses, disco domes and more. Mobile testing across the
           Midlands, booked around your season rather than against it.
         href: d
+  - type: iframe-embed
+    dark: false
+    compact: false
+    src: <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/NFBuatmYkyU?si=uz8nWkDp8z-gFSMM"
+      title="YouTube video player" frameborder="0" allow="accelerometer;
+      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+      web-share" referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen></iframe>
+    name: a
 no_index: false
 ---
