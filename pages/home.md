@@ -176,8 +176,8 @@ blocks:
       variant: secondary
       size: lg
   - type: video-background
-    dark: false
-    compact: false
+    dark: true
+    compact: true
     video_id: NFBuatmYkyU
     class: gradient
     badge: Professional Inflatable RPII Inspections and PAT Testing Across the
