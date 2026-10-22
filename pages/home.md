@@ -31,30 +31,6 @@ blocks:
         href: /pricing/
         variant: secondary
         size: lg
-  - type: hero
-    dark: true
-    compact: true
-    badge: RPII inflatable inspections
-    content: >-
-      # Professional Inflatable RPII Inspections and PAT Testing Across the
-      Midlands
-
-
-      Annual RPII inspections to BS EN 14960 for bouncy castles, slides,
-
-      obstacle courses, disco domes and more. Mobile testing across the
-
-      Midlands, booked around your season rather than against it.
-    buttons:
-      - text: Book an inspection
-        href: /contact/
-        variant: primary
-        size: lg
-      - text: See what it costs
-        href: /pricing/
-        variant: secondary
-        size: lg
-    class: gradient
   - type: features
     dark: false
     compact: false
