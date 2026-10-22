@@ -10,6 +10,18 @@ eleventyNavigation:
   key: Home
   order: 1
 blocks:
+  - type: video-background
+    dark: false
+    compact: false
+    video_id: NFBuatmYkyU
+    class: gradient
+    badge: RPII inflatable inspectionsProfessional Inflatable RPII Inspections and
+      PAT Testing Across the Midlands
+    content: >+
+      ### Annual RPII inspections to BS EN 14960 for bouncy castles, slides,
+      obstacle courses, disco domes and more. Mobile testing across the
+      Midlands, booked around your season rather than against it.
+
   - type: hero
     dark: true
     compact: true
@@ -175,17 +187,5 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
-  - type: video-background
-    dark: false
-    compact: false
-    video_id: NFBuatmYkyU
-    class: gradient
-    badge: RPII inflatable inspectionsProfessional Inflatable RPII Inspections and
-      PAT Testing Across the Midlands
-    content: >+
-      ### Annual RPII inspections to BS EN 14960 for bouncy castles, slides,
-      obstacle courses, disco domes and more. Mobile testing across the
-      Midlands, booked around your season rather than against it.
-
 no_index: false
 ---
