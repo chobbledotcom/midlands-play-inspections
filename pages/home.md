@@ -176,7 +176,7 @@ blocks:
       variant: secondary
       size: lg
   - type: video-background
-    dark: true
+    dark: false
     compact: false
     video_id: _G5zRdagXes
     badge: Professional Inflatable RPII Inspections and PAT Testing Across the
