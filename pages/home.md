@@ -185,5 +185,10 @@ blocks:
     content: Annual RPII inspections to BS EN 14960 for bouncy castles, slides,
       obstacle courses, disco domes and more. Mobile testing across the
       Midlands, booked around your season rather than against it.
+    buttons:
+      - text: Annual RPII inspections to BS EN 14960 for bouncy castles, slides,
+          obstacle courses, disco domes and more. Mobile testing across the
+          Midlands, booked around your season rather than against it.
+        href: d
 no_index: false
 ---
