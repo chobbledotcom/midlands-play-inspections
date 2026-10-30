@@ -197,5 +197,5 @@ blocks:
       venues and insurers.
     button:
       text: Get your anchor points checked
-      href: /contact/)
+      href: /contact/
 ---
