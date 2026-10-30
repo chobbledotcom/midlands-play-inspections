@@ -4,6 +4,12 @@ subtitle: Anchor points, stakes, ballast and wind limits, and what we check at
   an annual inspection.
 guide-category: guide-categories/inflatable-safety-tests.md
 blocks:
+  - type: guide-header
+    dark: false
+    compact: false
+  - type: guide-navigation
+    dark: false
+    compact: false
   - type: markdown
     dark: false
     compact: false
