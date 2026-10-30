@@ -196,6 +196,6 @@ blocks:
       of every anchor point, and you get a clear PDF report you can forward to
       venues and insurers.
     button:
-      text: "Heading: Get your anchor points checked"
+      text: Get your anchor points checked
       href: /contact/)
 ---
