@@ -1,6 +1,6 @@
 ---
 name: Home
-meta_title: Inflatable Inspections & PAT Testing in the Midlands
+meta_title: Bouncy Castle Inspections & PAT Testing in the Midlands
 meta_description: RPII inflatable inspections across the Midlands. Annual BS EN
   14960 safety inspections for bouncy castles, slides, obstacle courses and
   other inflatables.
@@ -19,6 +19,7 @@ blocks:
     content: >+
       # Professional Inflatable RPII Inspections and PAT Testing Across the
       Midlands
+
 
       Annual RPII inspections to BS EN 14960 for bouncy castles, slides,
       obstacle courses, disco domes and more. Mobile testing across the
@@ -39,8 +40,8 @@ blocks:
     items:
       - icon: hugeicons:certificate-01
         name: RPII registered
-        description: Inspections carried out by a registered inflatable inspector,
-          working to BS EN 14960-1:2019.
+        description: Inspections carried out by an [RPII registered inflatable
+          inspector](/about/) (A10246), working to BS EN 14960-1:2019.
       - icon: hugeicons:fortress
         name: Real industry experience
         description: Inspections carried out by someone with hands-on experience of
@@ -50,12 +51,12 @@ blocks:
         description: We test at your unit, yard or storage, so you don't have to haul a
           fleet of castles across the country.
       - icon: hugeicons:calendar-03
-        name: Year round testing service.
+        name: Year-round testing
         description: We test all year round, including some weekends where needed.
       - icon: hugeicons:file-validation
         name: Reports that stand up
         description: A clear PDF report you can forward straight to a venue, a school or
-          your insurer.
+          your insurer. [See what's in it](/inflatable-testing/).
       - icon: hugeicons:wrench-01
         name: Faults explained
         description: If something fails, you get told what it is, why it matters and
@@ -107,14 +108,15 @@ blocks:
     dark: false
     compact: false
     variant: dark-left
-    left_content: |-
+    left_content: >-
       ## What we inspect
 
+
       Bouncy castles and bounce-and-slide units. Inflatable slides, obstacle
-      courses and assault courses. Disco domes and ball pools.
-      Bungee runs, gladiator duels and other non-ride-on games. Sealed
-      inflatables and units outside the scope get an EN 14960 or
-      bespoke inspection instead.
+      courses and assault courses. Disco domes, toddler units and inflatable
+      soft play. We also inspect bungee runs, gladiator duels, games, adult
+      units and sealed inflatables, which sit outside BS EN 14960-1, using the
+      standard as a guide or a bespoke inspection.
     left_button:
       text: Full equipment list
       href: /what-we-inspect/
@@ -147,11 +149,13 @@ blocks:
         description: We come to you, for one unit or a full fleet. Dates that suit you.
       - icon: hugeicons:search-visual
         name: 4. We inspect
-        description: We check anchorage, seams, pressure, entrapments, fall heights and
-          more.
+        description: We check
+          [anchorage](/guides/inflatable-safety-tests/how-should-a-bouncy-castle-be-anchored/),
+          seams, pressure, entrapments, fall heights and more.
       - icon: hugeicons:electric-plugs
-        name: 5. Optional PAT Testing
-        description: We can PAT Test extra fans, leads, candy floss, speakers and lights.
+        name: 5. Optional PAT testing
+        description: We can PAT test extra fans, leads, candy floss machines, speakers
+          and lights.
       - icon: hugeicons:mail-send-01
         name: 6. The report lands
         description: A PDF within a few days, with any faults written out in plain English.
