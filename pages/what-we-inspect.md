@@ -98,7 +98,7 @@ blocks:
       Scheme scope changes as new inspection methods are developed, and ball
       pits
 
-      were added relatively recently. Send us a photo and the make
+      were added relatively recently. [Send us a photo](/contact/) and the make
 
       and model and we'll tell you straight away whether it needs the EN 14960
       test. There's no charge for asking.
@@ -106,21 +106,32 @@ blocks:
     dark: false
     compact: false
     subtitle: Also on the day
-    content: |-
+    content: >-
       ## PAT testing while we're there
 
+
       Every blower we inspect gets PAT tested as part of the job. If
+
       you've got other electricals in the van or the store, whether that's
+
       extension leads, candy floss machines, sound gear or lighting rigs, say so
+
       when you book and
+
       we'll do those at the same time.
 
+
       It's cheaper than a separate call-out, and it means one folder of
+
       certificates rather than three.
+
+
+      One blower and lead per castle is included free. Extra items are £3 each,
+      see our [prices](/pricing/).
     reverse: false
     figure_icon: hugeicons:plug-socket
     figure_name: PAT testing
-    figure_subtitle: Blowers, leads and the rest of your kit
+    figure_subtitle: Blowers, leads and the rest of your kit.
     figure_variant: secondary
   - type: cta
     dark: false
