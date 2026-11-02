@@ -1,6 +1,6 @@
 ---
 name: Pricing
-meta_title: Inflatable Inspection Prices
+meta_title: "Bouncy Castle Inspection Prices: From £50 per Unit"
 meta_description: Guide prices for RPII inflatable inspections, covering
   per-unit rates, fleet day rates, PAT testing and what's included in every
   inspection.
@@ -27,19 +27,22 @@ blocks:
           return for a link to Midland Play Inspections from your website.
       - icon: hugeicons:file-validation
         name: Written report
-        description: You get a full PDF report with photographs, emailed within a few
-          days of the inspection.
+        description: You get a [full PDF report](/inflatable-testing/) with photographs,
+          emailed within a few days of the inspection.
       - icon: hugeicons:plug-socket
         name: Blower PAT test
-        description: We PAT test the blower and its fly lead as part of the unit inspection.
+        description: We PAT test the blower and its fly lead as part of the unit
+          inspection. [Other electricals](/what-we-inspect/) can be done on the
+          same day.
       - icon: hugeicons:wrench-01
         name: A fault list you can act on
         description: Anything we find is written out with what it is, why it matters and
           what will put it right.
       - icon: hugeicons:truck-delivery
         name: Travel, within reason
-        description: Travel across Warwickshire is free , the rest of the Midlands may
-          have an extra charge depending on distance and amount of testing.
+        description: Travel across Warwickshire is free. [Anywhere else in the
+          Midlands](/areas-we-cover/), travel is quoted as a single figure up
+          front, depending on distance and how much we're testing.
       - icon: hugeicons:call-02
         name: Asking us things afterwards
         description: If a venue queries your paperwork six months later, ring us. We
@@ -54,8 +57,7 @@ blocks:
     content: |+
       ## Per-unit guide prices
 
-      Prices. Travel is quoted separately and is free within
-      Warwickshire.
+      Travel is quoted separately and is free within Warwickshire.
 
 
       | **Equipment** | Price |
@@ -69,29 +71,19 @@ blocks:
     dark: false
     compact: false
     subtitle: The cheapest way to do it
-    content: >-
+    content: |-
       ## Fleet day rate
 
-
       **£500 + travel for a full day**, covering as many units as we can get
-
       through, typically ten to twelve depending on size and how well
-
       organised the store is. Reports for everything inspected are
-
       included.
 
-
       If you've got more than about ten units, a fleet day almost always beats
-
-      per-unit pricing. Two operators sharing a day at one venue works too,
-      and
-
+      per-unit pricing. Two operators sharing a day at one venue works too, and
       splits the travel between you.
 
-
       Winter and midweek days are the easiest to get and the least disruptive
-
       to your season.
     reverse: false
     button:
@@ -107,36 +99,25 @@ blocks:
     compact: false
     items:
       - question: Do you charge for travel?
-        answer: >-
-          Travel is free within Warwickshire and will depend on test amounts in
-          the Midlands. Beyond
-
-          that it's quoted up front as a single figure, never a per-mile total
-          you
-
-          find out about afterwards. On fleet days, travel is a single charge
-          for
-
-          the day regardless of how many units we get through.
+        answer: Travel is free within Warwickshire. Anywhere else, it's quoted up front
+          as a single figure, never a per-mile total you find out about
+          afterwards, and the more we're testing the less it tends to matter. On
+          fleet days, travel is a single charge for the day regardless of how
+          many units we get through.
       - question: What if a unit fails?
         answer: >-
           You still pay the inspection fee, because the work has been done and
           you get
 
-          the report either way. The re-check after a repair is usually free if
-          it's
+          the report either way. The [re-check after a
+          repair](/inflatable-testing/) is usually free if it's
 
           done while we're still in the area or bundled into your next visit.
       - question: Is there a minimum charge?
-        answer: >-
-          For a single small unit a long way from base, travel can outweigh the
-
-          inspection fee. It's usually worth waiting until you've got two or
-          three
-
-          to do, or joining onto another operator's fleet day nearby. We'll tell
-
-          you if that's the cheaper option.
+        answer: No. For a single small unit a long way from base, though, travel can
+          outweigh the inspection fee. It's usually worth waiting until you've
+          got two or three to do, or joining onto another operator's fleet day
+          nearby. We'll tell you if that's the cheaper option.
       - question: Can I pay per unit on a fleet day?
         answer: |-
           Yes, if you'd rather. For small fleets it can work out cheaper. We'll
