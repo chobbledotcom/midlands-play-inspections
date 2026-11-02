@@ -44,6 +44,9 @@ blocks:
       - icon: hugeicons:puzzle
         name: Multiplay and combi units
         description: Units combining bounce area, slide, climb and basketball features.
+      - icon: hugeicons:birthday-cake
+        name: Toddler units and inflatable soft play
+        description: Toddler bouncers and inflatable soft play units for the under-fives.
     intro_content: >-
       ## Inspected to BS EN 14960-1:2019
 
@@ -60,9 +63,9 @@ blocks:
         description: Soft play sets, ball pits and toddler areas, checked against the
           relevant standards for the equipment.
       - icon: hugeicons:basketball-01
-        name: Non ride-on games
-        description: Basketball shootouts, penalty shootouts, hoopla, target zones and
-          other inflatable games.
+        name: Games, bungee runs and adult units
+        description: Shootouts, hoopla and target games, bungee runs, gladiator duels
+          and adult-sized castles, inspected using EN 14960 as a guide.
       - icon: hugeicons:package
         name: Sealed inflatables
         description: Constant-air and sealed units that sit outside EN 14960, inspected
@@ -79,10 +82,6 @@ blocks:
         name: Bouncing pillows and jump bags
         description: Airbags, jump bags and bouncing pillows, including the fencing,
           fall zones and clearances around them.
-      - icon: hugeicons:running-shoes
-        name: Bungee runs, duels and adult units
-        description: Bungee runs, gladiator duels, leap of faith and adult-sized
-          castles, inspected using EN 14960 as a guide.
     intro_content: |-
       ## Outside BS EN 14960-1
 
