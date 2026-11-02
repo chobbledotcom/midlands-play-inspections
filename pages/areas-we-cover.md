@@ -1,6 +1,6 @@
 ---
 name: Areas We Cover
-meta_title: Areas We Cover
+meta_title: Bouncy Castle Inspections Across Warwickshire & the Midlands
 meta_description: Mobile inflatable inspections across Warwickshire and the
   Midlands, covering Coventry, Leicester, Northampton, Worcester, Derby,
   Nottingham and beyond.
@@ -64,17 +64,20 @@ blocks:
     dark: false
     compact: false
     subtitle: Up the A46
-    content: |-
+    content: >-
       ## Coventry and north Warwickshire
 
-      Coventry has more inflatable hire companies in it than anywhere else we
-      cover, and it's about half an hour up the A46. Travel is free, and because
-      there are so many operators in one place it's the easiest city to share a
-      fleet day in.
 
-      Nuneaton, Bedworth and Atherstone sit at the top of the county and usually
-      get done together on one run. If you're up there, ask when that day is
-      next scheduled rather than booking a trip of your own.
+      Coventry has more inflatable hire companies in it than anywhere else we
+      cover, and it's about half an hour up the A46. Travel is quoted as a
+      single figure up front, and because there are so many operators in one
+      place it's the easiest city to share a fleet day in and split that cost.
+
+
+      Nuneaton, Bedworth and Atherstone sit at the top of the county, so travel
+      is free, and they usually get done together on one run. If you're up
+      there, ask when that day is next scheduled rather than booking a trip of
+      your own.
     reverse: true
     button:
       text: Ask about a shared day
@@ -97,17 +100,25 @@ blocks:
     dark: false
     compact: false
     subtitle: M42 and M5
-    content: |-
+    content: >-
       ## Birmingham and west
 
+
       Birmingham is about forty-five minutes up the M40 and M42, and travel
-      across the West Midlands is free. The fleets we see out this way tend to
+      across the West Midlands is quoted as a single figure up front. The fleets
+      we see out this way tend to
+
       be bigger and worked harder than the rural ones, which shows in the seams
+
       and the anchor patches.
 
+
       Redditch, Bromsgrove and Halesowen are further round and work best as a
+
       fleet day or shared with another operator nearby. Halesowen in particular
+
       is far enough that a single small unit is hard to justify, and we'd rather
+
       say so than take the booking.
     reverse: false
     button:
