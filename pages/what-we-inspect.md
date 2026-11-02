@@ -79,8 +79,8 @@ blocks:
         name: Bouncing pillows and jump bags
         description: Airbags, jump bags and bouncing pillows, including the fencing,
           fall zones and clearances around them.
-        style: hugeicons:running-man
-      - name: Bungee runs, duels and adult units
+      - icon: hugeicons:running-shoes
+        name: Bungee runs, duels and adult units
         description: Bungee runs, gladiator duels, leap of faith and adult-sized
           castles, inspected using EN 14960 as a guide.
     intro_content: |-
