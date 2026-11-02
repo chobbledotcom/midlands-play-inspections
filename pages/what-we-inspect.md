@@ -1,9 +1,9 @@
 ---
 name: What We Inspect
-meta_title: Equipment We Inspect
-meta_description: Bouncy castles, slides, obstacle courses, disco domes, soft
-  play, ball pools, bungee runs and non ride-on games, all inspected and tested
-  to BS EN 14960.
+meta_title: Bouncy Castles, Slides and Disco Domes We Inspect
+meta_description: Bouncy castles, slides, obstacle courses and disco domes
+  inspected to BS EN 14960-1:2019, plus soft play, games and other units outside
+  its scope.
 permalink: /what-we-inspect/
 navigationParent: Inspections
 eleventyNavigation:
@@ -20,17 +20,16 @@ blocks:
 
 
       If it inflates and children play on it or with it, we can almost certainly
-      test it.
-
-      Here's the list, and what to do about the things that fall outside it.
+      test it. Here's the list, and what to do about the things that fall
+      outside it. For what the inspection itself involves, see [what we
+      check.](/inflatable-testing/)
   - type: features
     dark: false
     compact: false
     items:
       - icon: hugeicons:castle-01
         name: Bouncy castles
-        description: Standard children's castles through to adult units, themed castles
-          and disco-enabled inflatables.
+        description: Children's castles, themed castles and disco-enabled inflatables.
       - icon: hugeicons:waterfall-down-01
         name: Slides and bounce-and-slide
         description: Combi units, platform slides and standalone inflatable slides at
@@ -45,14 +44,12 @@ blocks:
       - icon: hugeicons:puzzle
         name: Multiplay and combi units
         description: Units combining bounce area, slide, climb and basketball features.
-      - icon: hugeicons:running-shoes
-        name: Bungee runs and duels
-        description: Bungee runs, gladiator duels, leap of faith and similar competitive
-          inflatables.
-    intro_content: |-
-      ## RPII Testing Covers
+    intro_content: >-
+      ## Inspected to BS EN 14960-1:2019
 
-      All items are tested to BE EN 14960
+
+      These are inflatables where bouncing or sliding is the main activity,
+      which is what the standard covers.
     center: false
   - type: features
     dark: false
@@ -82,8 +79,12 @@ blocks:
         name: Bouncing pillows and jump bags
         description: Airbags, jump bags and bouncing pillows, including the fencing,
           fall zones and clearances around them.
+        style: hugeicons:running-man
+      - name: Bungee runs, duels and adult units
+        description: Bungee runs, gladiator duels, leap of faith and adult-sized
+          castles, inspected using EN 14960 as a guide.
     intro_content: |-
-      ## Outside of Part 1
+      ## Outside BS EN 14960-1
 
       Still inspected, still reported, still evidence of due diligence.
     center: false
@@ -105,24 +106,16 @@ blocks:
     dark: false
     compact: false
     subtitle: Also on the day
-    content: >-
+    content: |-
       ## PAT testing while we're there
 
-
       Every blower we inspect gets PAT tested as part of the job. If
-
       you've got other electricals in the van or the store, whether that's
-
-      extension leads, candy floss machines, sound gear or lighting rigs, say
-      so
-
+      extension leads, candy floss machines, sound gear or lighting rigs, say so
       when you book and
-
       we'll do those at the same time.
 
-
       It's cheaper than a separate call-out, and it means one folder of
-
       certificates rather than three.
     reverse: false
     figure_icon: hugeicons:plug-socket
