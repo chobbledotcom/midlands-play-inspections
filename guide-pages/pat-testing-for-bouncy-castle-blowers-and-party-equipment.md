@@ -190,5 +190,14 @@ blocks:
       page](https://www.midlandplayinspections.co.uk/pricing/) has the details.
       Every item we test gets a PAT sticker and goes in your PDF report, so your
       electrics and your inflatables are covered by the same paperwork.
+  - type: cta
+    dark: false
+    compact: false
+    content: We PAT test one blower and lead per castle at every inspection, and
+      extra electricals for £3 each on the same visit. Every item gets a PAT
+      sticker and goes in your PDF report.
+    button:
+      text: Get your blowers and leads tested
+      href: /contact/
 guide-category: guide-categories/inflatable-safety-tests.md
 ---
