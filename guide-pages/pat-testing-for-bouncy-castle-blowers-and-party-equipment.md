@@ -9,4 +9,5 @@ blocks:
   - type: guide-navigation
     dark: false
     compact: false
+guide-category: guide-categories/inflatable-safety-tests.md
 ---
