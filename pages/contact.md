@@ -35,7 +35,7 @@ blocks:
       - icon: hugeicons:location-01
         text: 16 Stratford Road, Lighthorne Heath, Leamington Spa, Warwickshire, CV33
           9TN
-      - icon: hugeicons:staricon
+      - icon: hugeicons:star
         text: Leave us a Google review
         url: https://g.page/r/CcMT-7w-SFEVEBM/review
   - type: contact-form

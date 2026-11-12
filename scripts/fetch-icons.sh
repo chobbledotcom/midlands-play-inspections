@@ -6,8 +6,8 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 mapfile -t icons < <(
-  grep -rhoE '(icon|figure_icon): *"[a-z0-9-]+:[a-z0-9-]+"' pages _includes 2>/dev/null |
-    grep -oE '"[a-z0-9-]+:[a-z0-9-]+"' | tr -d '"' | sort -u
+  grep -rhoE '(icon|figure_icon): *"?[a-z0-9-]+:[a-z0-9-]+' pages _includes 2>/dev/null |
+    grep -oE '[a-z0-9-]+:[a-z0-9-]+' | sort -u
 )
 
 for id in "${icons[@]}"; do
